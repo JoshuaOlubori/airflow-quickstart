@@ -20,8 +20,8 @@ def start():
     # against DuckDB will be assigned to this pool, preventing parallel requests to DuckDB.
 
     create_duckdb_pool = BashOperator(
-        task_id="create_duckdb_pool"
-        bash_command="airflow pools list | grep -q 'duckdb' || airflow pools set duckdb 1 'Pool for duckdb'"
+        task_id="create_duckdb_pool",
+        bash_command="airflow pools list | grep -q 'duckdb' || airflow pools set duckdb 1 'Pool for duckdb'",
         outlets=[gv.DS_START]
     )
 
