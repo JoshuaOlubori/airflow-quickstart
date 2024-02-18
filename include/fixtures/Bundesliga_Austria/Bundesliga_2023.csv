@@ -1,0 +1,133 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-28T18:30:00+00:00,2023,Bundesliga,Austria,Lask Linz,1,1,Rapid Vienna,Match Finished
+2023-07-29T15:00:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,2,1,FC BW Linz,Match Finished
+2023-07-29T15:00:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,2,2,Austria Lustenau,Match Finished
+2023-07-29T15:00:00+00:00,2023,Bundesliga,Austria,WSG Wattens,1,3,Austria Klagenfurt,Match Finished
+2023-07-29T17:30:00+00:00,2023,Bundesliga,Austria,SCR Altach,0,2,Red Bull Salzburg,Match Finished
+2023-07-30T15:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,0,3,Sturm Graz,Match Finished
+2023-08-05T15:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,4,0,SCR Altach,Match Finished
+2023-08-09T18:30:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,2,2,Wolfsberger AC,Match Finished
+2023-08-05T17:30:00+00:00,2023,Bundesliga,Austria,Sturm Graz,2,0,Lask Linz,Match Finished
+2023-08-06T15:00:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,0,2,Austria Vienna,Match Finished
+2023-08-06T15:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,3,0,WSG Wattens,Match Finished
+2023-08-06T15:00:00+00:00,2023,Bundesliga,Austria,FC BW Linz,3,3,TSV Hartberg,Match Finished
+2023-08-12T15:00:00+00:00,2023,Bundesliga,Austria,Sturm Graz,0,0,Austria Klagenfurt,Match Finished
+2023-08-12T15:00:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,1,1,Austria Lustenau,Match Finished
+2023-08-12T17:30:00+00:00,2023,Bundesliga,Austria,Lask Linz,2,0,FC BW Linz,Match Finished
+2023-08-13T15:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,2,0,Austria Vienna,Match Finished
+2023-08-13T15:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,0,1,TSV Hartberg,Match Finished
+2023-08-13T15:00:00+00:00,2023,Bundesliga,Austria,SCR Altach,1,0,WSG Wattens,Match Finished
+2023-08-19T17:30:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,1,1,SCR Altach,Match Finished
+2023-08-19T15:00:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,0,1,Sturm Graz,Match Finished
+2023-08-20T15:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,0,0,Wolfsberger AC,Match Finished
+2023-08-20T15:00:00+00:00,2023,Bundesliga,Austria,FC BW Linz,0,5,Rapid Vienna,Match Finished
+2023-08-20T15:00:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,1,5,Red Bull Salzburg,Match Finished
+2023-08-26T15:00:00+00:00,2023,Bundesliga,Austria,Sturm Graz,4,1,FC BW Linz,Match Finished
+2023-08-26T15:00:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,1,2,Red Bull Salzburg,Match Finished
+2023-08-26T17:30:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,0,3,SCR Altach,Match Finished
+2023-08-27T15:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,1,1,WSG Wattens,Match Finished
+2023-08-27T15:00:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,0,3,Austria Klagenfurt,Match Finished
+2023-09-02T15:00:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,0,3,TSV Hartberg,Match Finished
+2023-09-02T15:00:00+00:00,2023,Bundesliga,Austria,WSG Wattens,2,4,FC BW Linz,Match Finished
+2023-09-02T17:30:00+00:00,2023,Bundesliga,Austria,SCR Altach,1,2,Sturm Graz,Match Finished
+2023-09-03T15:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,2,0,Rapid Vienna,Match Finished
+2023-09-03T15:00:00+00:00,2023,Bundesliga,Austria,Lask Linz,2,0,Austria Lustenau,Match Finished
+2023-09-03T15:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,2,2,Austria Klagenfurt,Match Finished
+2023-09-16T17:30:00+00:00,2023,Bundesliga,Austria,Sturm Graz,2,2,Red Bull Salzburg,Match Finished
+2023-09-16T15:00:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,1,3,Lask Linz,Match Finished
+2023-09-17T15:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,3,3,Wolfsberger AC,Match Finished
+2023-09-16T15:00:00+00:00,2023,Bundesliga,Austria,FC BW Linz,1,1,SCR Altach,Match Finished
+2023-09-17T12:30:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,2,1,Austria Vienna,Match Finished
+2023-09-23T15:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,0,1,FC BW Linz,Match Finished
+2023-09-24T12:30:00+00:00,2023,Bundesliga,Austria,Lask Linz,0,0,TSV Hartberg,Match Finished
+2023-09-23T15:00:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,1,0,Austria Lustenau,Match Finished
+2023-09-24T15:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,1,1,Sturm Graz,Match Finished
+2023-09-24T12:30:00+00:00,2023,Bundesliga,Austria,SCR Altach,2,1,Austria Vienna,Match Finished
+2023-09-23T15:00:00+00:00,2023,Bundesliga,Austria,WSG Wattens,2,3,Wolfsberger AC,Match Finished
+2023-09-30T15:00:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,2,1,Lask Linz,Match Finished
+2023-10-01T15:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,0,0,Rapid Vienna,Match Finished
+2023-09-30T15:00:00+00:00,2023,Bundesliga,Austria,FC BW Linz,0,0,Austria Klagenfurt,Match Finished
+2023-09-30T15:00:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,0,4,Red Bull Salzburg,Match Finished
+2023-10-01T12:30:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,0,0,SCR Altach,Match Finished
+2023-10-08T12:30:00+00:00,2023,Bundesliga,Austria,Lask Linz,1,0,SCR Altach,Match Finished
+2023-10-08T12:30:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,1,2,Sturm Graz,Match Finished
+2023-10-07T15:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,4,0,FC BW Linz,Match Finished
+2023-10-08T15:00:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,2,2,Red Bull Salzburg,Match Finished
+2023-10-07T15:00:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,0,5,Rapid Vienna,Match Finished
+2023-10-07T15:00:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,3,0,WSG Wattens,Match Finished
+2023-10-21T15:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,0,1,Lask Linz,Match Finished
+2023-10-21T15:00:00+00:00,2023,Bundesliga,Austria,Sturm Graz,2,1,TSV Hartberg,Match Finished
+2023-10-22T15:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,2,3,Austria Klagenfurt,Match Finished
+2023-10-21T15:00:00+00:00,2023,Bundesliga,Austria,FC BW Linz,0,0,Austria Lustenau,Match Finished
+2023-10-22T12:30:00+00:00,2023,Bundesliga,Austria,SCR Altach,0,0,Wolfsberger AC,Match Finished
+2023-10-28T15:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,3,0,SCR Altach,Match Finished
+2023-10-29T13:30:00+00:00,2023,Bundesliga,Austria,Sturm Graz,0,1,Austria Vienna,Match Finished
+2023-10-28T15:00:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,1,0,WSG Wattens,Match Finished
+2023-10-29T16:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,3,3,Lask Linz,Match Finished
+2023-10-28T15:00:00+00:00,2023,Bundesliga,Austria,FC BW Linz,2,0,Wolfsberger AC,Match Finished
+2023-10-29T13:30:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,0,4,TSV Hartberg,Match Finished
+2023-11-04T16:00:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,4,0,Austria Klagenfurt,Match Finished
+2023-11-04T16:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,1,0,Austria Lustenau,Match Finished
+2023-11-05T13:30:00+00:00,2023,Bundesliga,Austria,SCR Altach,0,2,Rapid Vienna,Match Finished
+2023-11-05T13:30:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,3,2,FC BW Linz,Match Finished
+2023-11-04T16:00:00+00:00,2023,Bundesliga,Austria,WSG Wattens,0,2,Red Bull Salzburg,Match Finished
+2023-11-12T16:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,0,0,Red Bull Salzburg,Match Finished
+2023-11-12T13:30:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,0,3,Sturm Graz,Match Finished
+2023-11-12T13:30:00+00:00,2023,Bundesliga,Austria,FC BW Linz,2,0,Lask Linz,Match Finished
+2023-11-11T16:00:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,2,3,Wolfsberger AC,Match Finished
+2023-11-11T16:00:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,1,0,Rapid Vienna,Match Finished
+2023-11-11T16:00:00+00:00,2023,Bundesliga,Austria,WSG Wattens,5,1,SCR Altach,Match Finished
+2023-11-25T16:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,3,2,TSV Hartberg,Match Finished
+2023-11-26T13:30:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,1,0,Austria Vienna,Match Finished
+2023-11-25T16:00:00+00:00,2023,Bundesliga,Austria,Sturm Graz,2,0,Austria Lustenau,Match Finished
+2023-11-26T16:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,1,0,FC BW Linz,Match Finished
+2023-11-26T13:30:00+00:00,2023,Bundesliga,Austria,SCR Altach,0,1,Austria Klagenfurt,Match Finished
+2023-12-03T13:30:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,1,0,Wolfsberger AC,Match Finished
+2023-12-04T18:00:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,1,1,TSV Hartberg,Match Finished
+2023-12-03T13:30:00+00:00,2023,Bundesliga,Austria,FC BW Linz,1,1,Sturm Graz,Match Finished
+2023-12-05T18:00:00+00:00,2023,Bundesliga,Austria,SCR Altach,3,0,Austria Lustenau,Match Finished
+2023-12-05T18:00:00+00:00,2023,Bundesliga,Austria,WSG Wattens,1,2,Rapid Vienna,Match Finished
+2023-12-10T16:00:00+00:00,2023,Bundesliga,Austria,Sturm Graz,1,0,SCR Altach,Match Finished
+2023-12-09T16:00:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,2,2,Austria Vienna,Match Finished
+2023-12-09T13:30:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,0,1,Red Bull Salzburg,Match Finished
+2023-12-10T13:30:00+00:00,2023,Bundesliga,Austria,FC BW Linz,1,2,WSG Wattens,Match Finished
+2023-12-09T16:00:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,1,3,Lask Linz,Match Finished
+2023-12-10T13:30:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,2,0,Wolfsberger AC,Match Finished
+2024-02-09T19:30:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,1,1,Sturm Graz,Match Finished
+2024-02-11T16:00:00+00:00,2023,Bundesliga,Austria,Lask Linz,2,2,Austria Klagenfurt,Match Finished
+2024-02-11T13:30:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,0,2,Rapid Vienna,Match Finished
+2024-02-10T16:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,3,1,TSV Hartberg,Match Finished
+2024-02-10T16:00:00+00:00,2023,Bundesliga,Austria,SCR Altach,1,1,FC BW Linz,Match Finished
+2024-02-11T13:30:00+00:00,2023,Bundesliga,Austria,WSG Wattens,0,2,Austria Lustenau,Match Finished
+2024-02-17T16:00:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,,,WSG Wattens,Not Started
+2024-02-17T16:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,,,SCR Altach,Not Started
+2024-02-18T16:00:00+00:00,2023,Bundesliga,Austria,Sturm Graz,,,Rapid Vienna,Not Started
+2024-02-17T16:00:00+00:00,2023,Bundesliga,Austria,FC BW Linz,,,Red Bull Salzburg,Not Started
+2024-02-18T13:30:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,,,Austria Klagenfurt,Not Started
+2024-02-24T16:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,,,Austria Lustenau,Not Started
+2024-02-24T16:00:00+00:00,2023,Bundesliga,Austria,Lask Linz,,,Wolfsberger AC,Not Started
+2024-02-25T13:30:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,,,FC BW Linz,Not Started
+2024-02-25T16:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,,,Austria Vienna,Not Started
+2024-02-24T16:00:00+00:00,2023,Bundesliga,Austria,SCR Altach,,,TSV Hartberg,Not Started
+2024-02-25T13:30:00+00:00,2023,Bundesliga,Austria,WSG Wattens,,,Sturm Graz,Not Started
+2024-03-03T16:00:00+00:00,2023,Bundesliga,Austria,Red Bull Salzburg,,,Austria Klagenfurt,Not Started
+2024-03-03T16:00:00+00:00,2023,Bundesliga,Austria,Sturm Graz,,,Wolfsberger AC,Not Started
+2024-03-03T16:00:00+00:00,2023,Bundesliga,Austria,Rapid Vienna,,,Austria Lustenau,Not Started
+2024-03-03T16:00:00+00:00,2023,Bundesliga,Austria,FC BW Linz,,,Austria Vienna,Not Started
+2024-03-03T16:00:00+00:00,2023,Bundesliga,Austria,SCR Altach,,,Lask Linz,Not Started
+2024-03-03T16:00:00+00:00,2023,Bundesliga,Austria,WSG Wattens,,,TSV Hartberg,Not Started
+2024-03-10T16:00:00+00:00,2023,Bundesliga,Austria,Lask Linz,,,Red Bull Salzburg,Not Started
+2024-03-10T16:00:00+00:00,2023,Bundesliga,Austria,Wolfsberger AC,,,SCR Altach,Not Started
+2024-03-10T16:00:00+00:00,2023,Bundesliga,Austria,Austria Klagenfurt,,,Rapid Vienna,Not Started
+2024-03-10T16:00:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,,,FC BW Linz,Not Started
+2024-03-10T16:00:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,,,Sturm Graz,Not Started
+2023-08-19T15:00:00+00:00,2023,Bundesliga,Austria,WSG Wattens,1,1,Lask Linz,Match Finished
+2023-08-27T15:00:00+00:00,2023,Bundesliga,Austria,Lask Linz,2,0,Austria Vienna,Match Finished
+2023-09-17T12:30:00+00:00,2023,Bundesliga,Austria,Austria Lustenau,2,3,WSG Wattens,Match Finished
+2023-10-01T12:30:00+00:00,2023,Bundesliga,Austria,Sturm Graz,1,0,WSG Wattens,Match Finished
+2023-10-22T12:30:00+00:00,2023,Bundesliga,Austria,WSG Wattens,0,2,Austria Vienna,Match Finished
+2023-11-05T16:00:00+00:00,2023,Bundesliga,Austria,Lask Linz,3,1,Sturm Graz,Match Finished
+2023-11-25T16:00:00+00:00,2023,Bundesliga,Austria,Lask Linz,1,0,WSG Wattens,Match Finished
+2023-12-03T16:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,0,0,Lask Linz,Match Finished
+2024-02-18T13:30:00+00:00,2023,Bundesliga,Austria,TSV Hartberg,,,Lask Linz,Not Started
+2024-03-10T16:00:00+00:00,2023,Bundesliga,Austria,Austria Vienna,,,WSG Wattens,Not Started

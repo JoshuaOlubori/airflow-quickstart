@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-13T13:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,3,0,Leixoes,Match Finished
+2023-08-13T10:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,1,1,Vilaverdense,Match Finished
+2023-08-12T10:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,0,0,União de Leiria,Match Finished
+2023-08-12T13:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,1,2,Maritimo,Match Finished
+2023-08-15T10:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,3,1,Feirense,Match Finished
+2023-08-16T17:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,2,0,Torreense,Match Finished
+2023-08-13T17:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,3,2,Mafra,Match Finished
+2023-08-13T10:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,1,1,Tondela,Match Finished
+2023-08-12T17:00:00+00:00,2023,Segunda Liga,Portugal,AVS,1,0,CF Os Belenenses,Match Finished
+2023-08-20T10:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,1,2,Oliveirense,Match Finished
+2023-08-21T17:45:00+00:00,2023,Segunda Liga,Portugal,Torreense,3,0,Nacional,Match Finished
+2023-08-19T13:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,3,1,Benfica B,Match Finished
+2023-08-18T17:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,0,1,AVS,Match Finished
+2023-08-19T14:30:00+00:00,2023,Segunda Liga,Portugal,Tondela,2,2,Academico Viseu,Match Finished
+2023-08-20T19:30:00+00:00,2023,Segunda Liga,Portugal,Feirense,2,0,Penafiel,Match Finished
+2023-08-21T19:45:00+00:00,2023,Segunda Liga,Portugal,Leixoes,0,0,Santa Clara,Match Finished
+2023-08-20T13:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,1,1,FC Porto B,Match Finished
+2023-08-19T10:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,2,1,Pacos Ferreira,Match Finished
+2023-08-26T10:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,2,0,Feirense,Match Finished
+2023-08-28T17:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,3,1,Leixoes,Match Finished
+2023-08-26T14:30:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,1,1,Mafra,Match Finished
+2023-08-27T10:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,2,1,União de Leiria,Match Finished
+2023-08-27T13:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,2,0,Vilaverdense,Match Finished
+2023-08-27T14:30:00+00:00,2023,Segunda Liga,Portugal,Benfica B,0,1,Maritimo,Match Finished
+2023-08-27T17:00:00+00:00,2023,Segunda Liga,Portugal,AVS,0,0,Torreense,Match Finished
+2023-08-26T13:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,5,1,Tondela,Match Finished
+2023-08-27T10:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,3,1,Penafiel,Match Finished
+2023-09-03T10:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,3,1,Oliveirense,Match Finished
+2023-09-03T14:30:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,1,2,Nacional,Match Finished
+2023-09-03T13:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,1,1,Benfica B,Match Finished
+2023-09-01T17:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,0,1,CF Os Belenenses,Match Finished
+2023-09-02T14:30:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,1,2,AVS,Match Finished
+2023-09-02T13:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,0,2,Santa Clara,Match Finished
+2023-09-02T14:30:00+00:00,2023,Segunda Liga,Portugal,Penafiel,0,0,Academico Viseu,Match Finished
+2023-09-02T10:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,2,1,FC Porto B,Match Finished
+2023-09-02T17:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,2,0,Pacos Ferreira,Match Finished
+2023-09-16T17:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,2,1,Mafra,Match Finished
+2023-09-16T13:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,1,0,Feirense,Match Finished
+2023-09-17T13:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,0,5,União de Leiria,Match Finished
+2023-09-16T10:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,0,2,Maritimo,Match Finished
+2023-09-16T14:30:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,0,0,Penafiel,Match Finished
+2023-09-17T17:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,0,2,Torreense,Match Finished
+2023-09-16T10:00:00+00:00,2023,Segunda Liga,Portugal,AVS,2,0,Vilaverdense,Match Finished
+2023-09-15T19:15:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,1,2,Leixoes,Match Finished
+2023-09-17T10:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,2,2,Academico Viseu,Match Finished
+2023-10-01T10:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,1,2,AVS,Match Finished
+2023-10-02T17:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,1,4,Nacional,Match Finished
+2023-09-29T17:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,1,4,Benfica B,Match Finished
+2023-10-02T19:15:00+00:00,2023,Segunda Liga,Portugal,Torreense,2,2,CF Os Belenenses,Match Finished
+2023-09-30T13:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,1,2,Mafra,Match Finished
+2023-09-30T10:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,1,1,Santa Clara,Match Finished
+2023-10-01T13:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,1,3,FC Porto B,Match Finished
+2023-10-01T17:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,1,0,Pacos Ferreira,Match Finished
+2023-10-01T19:30:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,2,2,Tondela,Match Finished
+2023-10-08T17:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,2,3,Feirense,Match Finished
+2023-10-08T13:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,1,2,Maritimo,Match Finished
+2023-10-07T13:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,4,2,Leixoes,Match Finished
+2023-10-08T10:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,3,0,União de Leiria,Match Finished
+2023-10-07T10:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,5,0,Oliveirense,Match Finished
+2023-10-09T19:15:00+00:00,2023,Segunda Liga,Portugal,AVS,1,0,Penafiel,Match Finished
+2023-10-06T17:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,2,0,Academico Viseu,Match Finished
+2023-10-07T17:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,2,0,Vilaverdense,Match Finished
+2023-10-08T10:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,2,2,Torreense,Match Finished
+2023-10-29T14:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,1,2,AVS,Match Finished
+2023-10-29T11:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,1,1,Nacional,Match Finished
+2023-10-29T15:30:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,1,1,Benfica B,Match Finished
+2023-10-29T18:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,1,4,União de Leiria,Match Finished
+2023-10-27T17:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,1,0,Mafra,Match Finished
+2023-10-30T18:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,0,5,FC Porto B,Match Finished
+2023-10-28T13:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,1,0,CF Os Belenenses,Match Finished
+2023-10-28T14:30:00+00:00,2023,Segunda Liga,Portugal,Maritimo,2,2,Tondela,Match Finished
+2023-10-28T10:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,1,2,Pacos Ferreira,Match Finished
+2023-11-04T18:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,1,1,Santa Clara,Match Finished
+2023-11-04T11:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,2,0,Feirense,Match Finished
+2023-11-04T11:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,0,1,Leixoes,Match Finished
+2023-11-04T15:30:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,0,2,Vilaverdense,Match Finished
+2023-11-05T11:00:00+00:00,2023,Segunda Liga,Portugal,AVS,0,1,Oliveirense,Match Finished
+2023-11-05T14:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,4,3,Maritimo,Match Finished
+2023-11-05T18:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,1,2,Torreense,Match Finished
+2023-11-06T18:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,1,0,Academico Viseu,Match Finished
+2023-11-04T18:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,1,0,Penafiel,Match Finished
+2023-11-11T15:30:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,2,1,AVS,Match Finished
+2023-11-12T11:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,1,2,Tondela,Match Finished
+2023-11-12T18:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,1,0,Benfica B,Match Finished
+2023-11-11T11:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,2,0,União de Leiria,Match Finished
+2023-11-12T11:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,0,0,Mafra,Match Finished
+2023-11-11T18:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,0,0,Pacos Ferreira,Match Finished
+2023-11-11T14:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,3,2,FC Porto B,Match Finished
+2023-11-10T18:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,1,0,CF Os Belenenses,Match Finished
+2023-11-12T15:30:00+00:00,2023,Segunda Liga,Portugal,Leixoes,0,1,Maritimo,Match Finished
+2023-11-18T18:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,0,0,Leixoes,Match Finished
+2023-11-19T14:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,2,0,Penafiel,Match Finished
+2023-11-18T14:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,0,2,Santa Clara,Match Finished
+2023-11-18T15:30:00+00:00,2023,Segunda Liga,Portugal,Tondela,2,0,Feirense,Match Finished
+2023-11-25T18:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,1,1,Oliveirense,Match Finished
+2023-11-19T11:00:00+00:00,2023,Segunda Liga,Portugal,AVS,0,1,Nacional,Match Finished
+2023-11-25T11:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,3,0,Academico Viseu,Match Finished
+2023-11-19T15:30:00+00:00,2023,Segunda Liga,Portugal,Maritimo,1,2,Torreense,Match Finished
+2023-11-18T11:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,1,0,Vilaverdense,Match Finished
+2023-12-02T14:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,2,1,Pacos Ferreira,Match Finished
+2023-12-03T11:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,0,0,Leixoes,Match Finished
+2023-12-01T15:30:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,1,0,União de Leiria,Match Finished
+2023-12-01T18:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,3,1,CF Os Belenenses,Match Finished
+2023-12-03T14:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,0,2,Tondela,Match Finished
+2023-12-02T11:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,1,3,FC Porto B,Match Finished
+2023-12-02T20:30:00+00:00,2023,Segunda Liga,Portugal,AVS,1,0,Benfica B,Match Finished
+2023-12-03T15:30:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,2,1,Maritimo,Match Finished
+2023-12-04T18:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,3,2,Mafra,Match Finished
+2023-12-09T14:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,2,3,Santa Clara,Match Finished
+2023-12-09T11:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,2,3,AVS,Match Finished
+2023-12-09T15:30:00+00:00,2023,Segunda Liga,Portugal,Leixoes,0,0,Feirense,Match Finished
+2023-12-10T14:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,1,0,Oliveirense,Match Finished
+2023-12-08T20:30:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,1,0,Torreense,Match Finished
+2023-12-09T18:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,2,1,Nacional,Match Finished
+2023-12-09T11:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,2,1,Penafiel,Match Finished
+2023-12-10T15:30:00+00:00,2023,Segunda Liga,Portugal,Maritimo,4,0,Vilaverdense,Match Finished
+2023-12-10T11:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,1,1,Academico Viseu,Match Finished
+2023-12-17T18:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,1,3,Mafra,Match Finished
+2023-12-16T11:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,0,0,Torreense,Match Finished
+2023-12-17T11:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,1,0,Leixoes,Match Finished
+2023-12-16T14:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,1,0,União de Leiria,Match Finished
+2023-12-17T15:30:00+00:00,2023,Segunda Liga,Portugal,Benfica B,1,1,Tondela,Match Finished
+2023-12-16T15:30:00+00:00,2023,Segunda Liga,Portugal,Nacional,5,0,CF Os Belenenses,Match Finished
+2023-12-16T18:00:00+00:00,2023,Segunda Liga,Portugal,AVS,2,0,Pacos Ferreira,Match Finished
+2023-12-17T12:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,2,1,FC Porto B,Match Finished
+2023-12-17T14:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,0,1,Maritimo,Match Finished
+2023-12-30T18:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,1,1,Feirense,Match Finished
+2023-12-30T14:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,1,0,Oliveirense,Match Finished
+2023-12-30T11:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,2,3,Nacional,Match Finished
+2023-12-30T14:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,2,2,Benfica B,Match Finished
+2023-12-31T11:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,0,2,AVS,Match Finished
+2023-12-22T20:45:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,0,0,Santa Clara,Match Finished
+2023-12-21T18:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,3,1,Vilaverdense,Match Finished
+2023-12-23T12:45:00+00:00,2023,Segunda Liga,Portugal,Maritimo,0,0,Penafiel,Match Finished
+2023-12-30T11:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,1,2,Academico Viseu,Match Finished
+2024-01-06T11:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,1,1,Tondela,Match Finished
+2024-01-06T15:30:00+00:00,2023,Segunda Liga,Portugal,Benfica B,2,1,CF Os Belenenses,Match Finished
+2024-01-06T11:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,1,1,Maritimo,Match Finished
+2024-01-06T18:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,1,0,União de Leiria,Match Finished
+2024-01-06T14:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,2,1,Vilaverdense,Match Finished
+2024-01-07T15:30:00+00:00,2023,Segunda Liga,Portugal,Feirense,3,1,Torreense,Match Finished
+2024-01-06T15:30:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,0,1,Mafra,Match Finished
+2024-01-07T14:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,3,0,FC Porto B,Match Finished
+2024-01-07T11:00:00+00:00,2023,Segunda Liga,Portugal,AVS,1,3,Leixoes,Match Finished
+2024-01-14T14:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,3,2,AVS,Match Finished
+2024-01-14T11:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,2,1,Feirense,Match Finished
+2024-01-15T20:45:00+00:00,2023,Segunda Liga,Portugal,Torreense,1,0,Penafiel,Match Finished
+2024-01-14T18:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,0,1,Santa Clara,Match Finished
+2024-01-14T15:30:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,0,3,Benfica B,Match Finished
+2024-01-13T14:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,0,1,Pacos Ferreira,Match Finished
+2024-01-15T18:45:00+00:00,2023,Segunda Liga,Portugal,Mafra,0,0,Nacional,Match Finished
+2024-01-14T15:30:00+00:00,2023,Segunda Liga,Portugal,Maritimo,1,1,Academico Viseu,Match Finished
+2024-01-12T18:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,0,2,Oliveirense,Match Finished
+2024-01-20T15:30:00+00:00,2023,Segunda Liga,Portugal,Feirense,0,0,Oliveirense,Match Finished
+2024-01-21T14:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,0,1,Penafiel,Match Finished
+2024-01-19T18:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,0,2,Academico Viseu,Match Finished
+2024-01-21T18:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,3,1,Nacional,Match Finished
+2024-01-20T11:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,1,2,Benfica B,Match Finished
+2023-12-22T18:45:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,1,1,Pacos Ferreira,Match Finished
+2024-01-21T11:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,0,0,FC Porto B,Match Finished
+2024-01-21T15:30:00+00:00,2023,Segunda Liga,Portugal,Torreense,1,2,Santa Clara,Match Finished
+2024-01-20T14:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,1,3,AVS,Match Finished
+2024-01-28T18:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,0,1,Vilaverdense,Match Finished
+2024-01-28T15:30:00+00:00,2023,Segunda Liga,Portugal,Nacional,2,1,Torreense,Match Finished
+2024-01-29T16:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,0,1,União de Leiria,Match Finished
+2024-01-28T11:00:00+00:00,2023,Segunda Liga,Portugal,AVS,3,2,Maritimo,Match Finished
+2024-01-28T13:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,2,0,Leixoes,Match Finished
+2024-01-29T18:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,2,1,Feirense,Match Finished
+2024-01-28T15:30:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,3,0,CF Os Belenenses,Match Finished
+2024-01-30T20:15:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,1,1,Tondela,Match Finished
+2024-01-28T12:45:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,0,1,Mafra,Match Finished
+2024-02-21T18:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,,,Academico Viseu,Not Started
+2024-02-28T18:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,,,Nacional,Not Started
+2024-02-03T11:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,1,1,FC Porto B,Match Finished
+2024-02-02T20:45:00+00:00,2023,Segunda Liga,Portugal,Mafra,1,1,CF Os Belenenses,Match Finished
+2024-02-04T14:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,3,1,Benfica B,Match Finished
+2024-02-05T18:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,1,1,Pacos Ferreira,Match Finished
+2024-02-03T14:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,2,1,AVS,Match Finished
+2024-02-02T18:45:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,1,1,Santa Clara,Match Finished
+2024-02-03T15:30:00+00:00,2023,Segunda Liga,Portugal,Penafiel,1,1,Oliveirense,Match Finished
+2024-02-09T18:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,1,2,Torreense,Match Finished
+2024-02-10T14:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,3,2,Vilaverdense,Match Finished
+2024-02-10T15:30:00+00:00,2023,Segunda Liga,Portugal,Benfica B,1,1,Leixoes,Match Finished
+2024-02-11T11:00:00+00:00,2023,Segunda Liga,Portugal,AVS,2,1,União de Leiria,Match Finished
+2024-02-11T15:30:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,0,0,Tondela,Match Finished
+2024-02-12T18:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,2,1,Feirense,Match Finished
+2024-02-10T11:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,1,0,Penafiel,Match Finished
+2024-02-11T15:30:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,1,1,Mafra,Match Finished
+2024-02-11T14:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,1,2,Maritimo,Match Finished
+2024-02-17T11:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,,,Tondela,Not Started
+2024-02-18T15:30:00+00:00,2023,Segunda Liga,Portugal,Feirense,,,Nacional,Not Started
+2024-02-17T18:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,,,CF Os Belenenses,Not Started
+2024-02-17T15:30:00+00:00,2023,Segunda Liga,Portugal,Maritimo,,,FC Porto B,Not Started
+2024-02-17T14:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,,,Benfica B,Not Started
+2024-02-16T18:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,,,Pacos Ferreira,Not Started
+2024-02-19T18:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,,,AVS,Not Started
+2024-02-18T14:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,,,Santa Clara,Not Started
+2024-02-18T11:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,,,Oliveirense,Not Started
+2024-02-27T20:15:00+00:00,2023,Segunda Liga,Portugal,AVS,,,Academico Viseu,Not Started
+2024-02-24T15:30:00+00:00,2023,Segunda Liga,Portugal,Nacional,,,Penafiel,Not Started
+2024-02-24T18:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,,,Vilaverdense,Not Started
+2024-02-25T11:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,,,Maritimo,Not Started
+2024-02-25T14:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,,,Torreense,Not Started
+2024-02-24T14:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,,,Oliveirense,Not Started
+2024-02-24T15:30:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,,,Leixoes,Not Started
+2024-02-26T18:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,,,Feirense,Not Started
+2024-02-24T11:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,,,União de Leiria,Not Started
+2024-03-02T14:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,,,Benfica B,Not Started
+2024-03-05T18:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,,,CF Os Belenenses,Not Started
+2024-03-03T15:30:00+00:00,2023,Segunda Liga,Portugal,Leixoes,,,Tondela,Not Started
+2024-03-03T11:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,,,Nacional,Not Started
+2024-03-02T11:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,,,Mafra,Not Started
+2024-03-03T14:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,,,AVS,Not Started
+2024-03-04T18:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,,,Santa Clara,Not Started
+2024-03-04T18:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,,,Pacos Ferreira,Not Started
+2024-03-03T12:45:00+00:00,2023,Segunda Liga,Portugal,Torreense,,,FC Porto B,Not Started
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,AVS,,,Feirense,Time to be defined
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,,,Academico Viseu,Time to be defined
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,,,Santa Clara,Time to be defined
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,,,Oliveirense,Time to be defined
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,,,Penafiel,Time to be defined
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,,,Vilaverdense,Time to be defined
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,,,Leixoes,Time to be defined
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,,,Maritimo,Time to be defined
+2024-03-10T00:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,,,Torreense,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,,,Nacional,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,,,CF Os Belenenses,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,,,FC Porto B,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,,,Mafra,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,,,Tondela,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,,,União de Leiria,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,,,AVS,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,,,Pacos Ferreira,Time to be defined
+2024-03-17T00:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,,,Benfica B,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,,,Vilaverdense,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,,,Academico Viseu,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,,,Nacional,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,AVS,,,Santa Clara,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,,,Torreense,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,,,Feirense,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,,,Leixoes,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,,,Penafiel,Time to be defined
+2024-03-30T00:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,,,Oliveirense,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,,,CF Os Belenenses,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,,,Pacos Ferreira,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,,,Tondela,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,,,União de Leiria,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,,,Benfica B,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,,,Maritimo,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,,,Mafra,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,,,FC Porto B,Time to be defined
+2024-04-07T00:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,,,AVS,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,,,Torreense,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,,,Vilaverdense,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,,,Academico Viseu,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,,,Nacional,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,,,Penafiel,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,,,Santa Clara,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,,,Feirense,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,,,AVS,Time to be defined
+2024-04-14T00:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,,,Oliveirense,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,,,Tondela,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,,,Leixoes,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,,,CF Os Belenenses,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,,,União de Leiria,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,AVS,,,FC Porto B,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,,,Benfica B,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,,,Pacos Ferreira,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,,,Maritimo,Time to be defined
+2024-04-21T00:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,,,Mafra,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,,,Academico Viseu,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,,,Vilaverdense,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,,,Penafiel,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,,,Oliveirense,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,,,Benfica B,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,,,Santa Clara,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,,,Feirense,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,,,AVS,Time to be defined
+2024-04-28T00:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,,,Nacional,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,,,União de Leiria,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,,,FC Porto B,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,,,Pacos Ferreira,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,AVS,,,Mafra,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,,,Tondela,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,,,CF Os Belenenses,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,,,Torreense,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,,,Maritimo,Time to be defined
+2024-05-05T00:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,,,Leixoes,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,Tondela,,,Nacional,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,Maritimo,,,Oliveirense,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,União de Leiria,,,Academico Viseu,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,Vilaverdense,,,Penafiel,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,CF Os Belenenses,,,Benfica B,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,Torreense,,,Feirense,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,Mafra,,,Santa Clara,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,FC Porto B,,,Pacos Ferreira,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Segunda Liga,Portugal,Leixoes,,,AVS,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,Feirense,,,Vilaverdense,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,Penafiel,,,Torreense,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,Benfica B,,,FC Porto B,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,AVS,,,Tondela,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,Oliveirense,,,Leixoes,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,Academico Viseu,,,Maritimo,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,Nacional,,,Mafra,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,Pacos Ferreira,,,CF Os Belenenses,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Segunda Liga,Portugal,Santa Clara,,,União de Leiria,Time to be defined
