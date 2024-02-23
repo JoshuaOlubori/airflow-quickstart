@@ -13,8 +13,8 @@ import json
 # ----------------------- #
 
 # Source files climate data
-CLIMATE_DATA_PATH = (
-    f"{os.environ['AIRFLOW_HOME']}/include/climate_data/global_climate_data.csv"
+FIXTURES_DATA_PATH = (
+    f"{os.environ['AIRFLOW_HOME']}/include/fixtures_data/all_fixtures_combined.csv"
 )
 
 # Datasets
@@ -37,4 +37,4 @@ default_args = {
 }
 
 # default coordinates
-default_coordinates = {"city": "No city provided", "lat": 0, "long": 0}
+# default_coordinates = {"city": "No city provided", "lat": 0, "long": 0}
