@@ -1,0 +1,97 @@
+"""DAG that loads fxitures from MinIO to DuckDB."""
+
+# --------------- #
+# PACKAGE IMPORTS #
+# --------------- #
+
+from airflow.decorators import dag, task
+from pendulum import datetime, parse
+import duckdb
+import os
+import json
+
+# -------------------- #
+# Local module imports #
+# -------------------- #
+
+from include.global_variables import global_variables as gv
+from include.custom_operators.minio import (
+    MinIOListOperator,
+    MinIODeleteObjectsOperator,
+)
+
+# --- #
+# DAG #
+# --- #
+
+
+@dag(
+    start_date=datetime(2023, 1, 1),
+    # this DAG runs as soon as the fixtures data is ready in MinIO
+    schedule=[gv.DS_FIXTURES_DATA_MINIO],
+    catchup=False,
+    default_args=gv.default_args,
+    description="Loads fixtures data from MinIO to DuckDB.",
+    tags=["load", "minio", "duckdb"],
+    # render Jinja templates as native objects (e.g. dictionary) instead of strings
+    render_template_as_native_obj=True,
+)
+def load_data():
+
+    # # create an instance of the CreateBucket task group consisting of 5 tasks
+    # create_bucket_tg = CreateBucket(
+    #     task_id="create_archive_bucket", bucket_name=gv.ARCHIVE_BUCKET_NAME
+    # )
+
+    list_files_fixtures_bucket = MinIOListOperator(
+        task_id="list_files_fixtures_bucket", bucket_name=gv.FIXTURES_BUCKET_NAME
+    )
+
+    @task(outlets=[gv.DS_DUCKDB_IN_FIXTURES], pool="duckdb")
+    def load_fixtures_data(obj):
+        """Loads content of one fileobject in the MinIO fixtures bucket
+        to DuckDB."""
+
+        # get the object from MinIO and save as a local tmp csv file
+        minio_client = gv.get_minio_client()
+        minio_client.fget_object(gv.FIXTURES_BUCKET_NAME, obj, file_path=obj)
+
+        # derive table name from object name
+        table_name = obj.split(".")[0] + "_table"
+
+        # use read_csv_auto to load data to duckdb
+        cursor = duckdb.connect(gv.DUCKDB_INSTANCE_NAME)
+        cursor.execute(
+            f"""CREATE TABLE IF NOT EXISTS {table_name} AS
+            SELECT * FROM read_csv_auto('{obj}');"""
+        )
+        cursor.commit()
+        cursor.close()
+
+        # delete local tmp csv file
+        os.remove(obj)
+
+
+    @task
+    def get_deletion_args(obj_list_fixtures):
+        """Return tuples with bucket names and bucket contents."""
+
+        return [
+            {"bucket_name": gv.FIXTURES_BUCKET_NAME, "object_names": obj_list_fixtures}
+        ]
+
+    delete_objects = MinIODeleteObjectsOperator.partial(
+        task_id="delete_objects",
+    ).expand_kwargs(
+        get_deletion_args(list_files_fixtures_bucket.output
+        )
+    )
+
+    # set dependencies
+
+    fixtures_data = load_fixtures_data.expand(obj=list_files_fixtures_bucket.output)
+
+    fixtures_data >> delete_objects
+
+
+load_data()
