@@ -24,9 +24,8 @@ import json
 MINIO_ACCESS_KEY = "minioadmin"
 MINIO_SECRET_KEY = "minioadmin"
 MINIO_IP = "host.docker.internal:9000"
-WEATHER_BUCKET_NAME = "weather"
-CLIMATE_BUCKET_NAME = "climate"
-ARCHIVE_BUCKET_NAME = "archive"
+FIXTURES_BUCKET_NAME = "fixtures"
+# ARCHIVE_BUCKET_NAME = "archive"
 
 # Source file path climate data
 FIXTURES_DATA_PATH = (
@@ -34,7 +33,7 @@ FIXTURES_DATA_PATH = (
 )
 
 # Datasets
-DS_CLIMATE_DATA_MINIO = Dataset(f"minio://{FIXTURES_BUCKET_NAME}")
+DS_FIXTURES_DATA_MINIO = Dataset(f"minio://{FIXTURES_BUCKET_NAME}")
 DS_DUCKDB_IN_FIXTURES = Dataset("duckdb://in_climate")
 DS_DUCKDB_REPORTING = Dataset("duckdb://reporting")
 DS_START = Dataset("start")
