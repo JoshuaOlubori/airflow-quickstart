@@ -13,14 +13,13 @@ from pendulum import datetime
 # Local module imports #
 # -------------------- #
 
-from include.global_variables import airflow_conf_variables as gv
+from include.global_variables import global_variables as gv
 
 
 # -------- #
 # Datasets #
 # -------- #
 
-start_dataset = Dataset("start")
 
 # --- #
 # DAG #
@@ -46,7 +45,7 @@ def start():
     create_duckdb_pool = BashOperator(
         task_id="bash_task",
         bash_command="airflow pools list | grep -q 'duckdb' || airflow pools set duckdb 1 'Pool for duckdb'",
-        outlets=[start_dataset],
+        outlets=[gv.DS_START],
     )
 
 

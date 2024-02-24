@@ -32,17 +32,23 @@ FIXTURES_DATA_PATH = (
     f"{os.environ['AIRFLOW_HOME']}/include/fixtures_data/all_fixtures_combined.csv"
 )
 
-# Datasets
-DS_FIXTURES_DATA_MINIO = Dataset(f"minio://{FIXTURES_BUCKET_NAME}")
-DS_DUCKDB_IN_FIXTURES = Dataset("duckdb://in_climate")
-DS_DUCKDB_REPORTING = Dataset("duckdb://reporting")
-DS_START = Dataset("start")
+RESULTS_DATA_PATH = (
+    f"{os.environ['AIRFLOW_HOME']}/include/results/"
+)
 
 # DuckDB config
 DUCKDB_INSTANCE_NAME = json.loads(os.environ["AIRFLOW_CONN_DUCKDB_DEFAULT"])["host"]
 FIXTURES_IN_TABLE_NAME = "in_fixtures"
 REPORTING_TABLE_NAME = "reporting_table"
 CONN_ID_DUCKDB = "duckdb_default"
+
+# Datasets
+DS_FIXTURES_DATA_MINIO = Dataset(f"minio://{FIXTURES_BUCKET_NAME}")
+DS_DUCKDB_IN_FIXTURES = Dataset(f"duckdb://{FIXTURES_IN_TABLE_NAME}")
+DS_DUCKDB_REPORTING = Dataset("duckdb://reporting")
+DS_START = Dataset("start")
+
+
 
 # get Airflow task logger
 task_log = logging.getLogger("airflow.task")

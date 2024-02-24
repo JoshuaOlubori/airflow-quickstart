@@ -57,12 +57,12 @@ def load_data():
         minio_client.fget_object(gv.FIXTURES_BUCKET_NAME, obj, file_path=obj)
 
         # derive table name from object name
-        table_name = obj.split(".")[0] + "_table"
+        # table_name = obj.split(".")[0] + "_table"
 
         # use read_csv_auto to load data to duckdb
         cursor = duckdb.connect(gv.DUCKDB_INSTANCE_NAME)
         cursor.execute(
-            f"""CREATE TABLE IF NOT EXISTS {table_name} AS
+            f"""CREATE TABLE IF NOT EXISTS {gv.FIXTURES_IN_TABLE_NAME} AS
             SELECT * FROM read_csv_auto('{obj}');"""
         )
         cursor.commit()
