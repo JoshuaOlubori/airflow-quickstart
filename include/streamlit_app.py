@@ -97,8 +97,6 @@ if "reporting_table_2" in tables:
 st.title("Fixtures Transformation Results")
 
 st.markdown(f"Hello Joshua :wave: Welcome to your Streamlit App! :blush:")
-
-st.subheader("Hey")
 # Get the DataFrame
 
 # Display the DataFrame as a table in Streamlit
