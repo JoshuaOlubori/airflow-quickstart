@@ -39,7 +39,8 @@ RESULTS_DATA_PATH = (
 # DuckDB config
 DUCKDB_INSTANCE_NAME = json.loads(os.environ["AIRFLOW_CONN_DUCKDB_DEFAULT"])["host"]
 FIXTURES_IN_TABLE_NAME = "in_fixtures"
-REPORTING_TABLE_NAME = "reporting_table"
+REPORTING_TABLE_NAME_1 = "reporting_table_1"
+REPORTING_TABLE_NAME_2 = "reporting_table_2"
 CONN_ID_DUCKDB = "duckdb_default"
 
 # Datasets

@@ -18,7 +18,7 @@ from astro.sql.table import Table
 
 from include.global_variables import global_variables as gv
 
-from include.logic import apply_filtering_logic
+from include.logic import apply_filtering_logic, won_last_5_matches
 
 # -------- #
 # Datasets #
@@ -47,13 +47,28 @@ from include.logic import apply_filtering_logic
 
 # SOLUTION: One of many possible solutions to retrieve the warmest day by year by city
 @aql.dataframe(pool="duckdb")
-def find_required_fixtures(in_table: pd.DataFrame):
+def find_fixtures_c1(in_table: pd.DataFrame):
     # print ingested df to the logs
     gv.task_log.info(in_table)
 
     df = in_table
 # import transformation function from utils.py
     output_df = apply_filtering_logic(df)
+    
+
+    # print result table to the logs
+    gv.task_log.info(output_df)
+
+    return output_df
+
+@aql.dataframe(pool="duckdb")
+def find_fixtures_c2(in_table: pd.DataFrame):
+    # print ingested df to the logs
+    gv.task_log.info(in_table)
+
+    df = in_table
+# import transformation function from utils.py
+    output_df = won_last_5_matches(df)
     
 
     # print result table to the logs
@@ -86,12 +101,21 @@ def find_required_fixtures(in_table: pd.DataFrame):
 def transform_fixtures():
 
 
-    find_required_fixtures(
+    find_fixtures_c1(
         in_table=Table(
             name=gv.FIXTURES_IN_TABLE_NAME, conn_id=gv.CONN_ID_DUCKDB
         ),
         output_table=Table(
-            name=gv.REPORTING_TABLE_NAME, conn_id=gv.CONN_ID_DUCKDB
+            name=gv.REPORTING_TABLE_NAME_1, conn_id=gv.CONN_ID_DUCKDB
+        ),
+    )
+
+    find_fixtures_c2(
+        in_table=Table(
+            name=gv.FIXTURES_IN_TABLE_NAME, conn_id=gv.CONN_ID_DUCKDB
+        ),
+        output_table=Table(
+            name=gv.REPORTING_TABLE_NAME_2, conn_id=gv.CONN_ID_DUCKDB
         ),
     )
 

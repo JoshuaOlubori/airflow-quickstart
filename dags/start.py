@@ -30,7 +30,7 @@ from include.global_variables import global_variables as gv
     start_date=datetime(2023, 1, 1),
     # after being unpaused this DAG will run once, afterwards it can be run
     # manually with the play button in the Airflow UI
-    schedule="@once",
+    schedule="@daily",
     catchup=False,
     default_args=gv.default_args,
     description="Run this DAG to start the pipeline!",

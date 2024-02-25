@@ -1,0 +1,736 @@
+Date,HomeTeam,HomeScore,AwayScore,AwayTeam
+2023-08-12,Kayserispor,0,0,Galatasaray
+2023-08-19,Galatasaray,2,0,Trabzonspor
+2023-09-26,İstanbulspor,0,1,Galatasaray
+2023-09-02,Gazişehir Gaziantep,0,3,Galatasaray
+2023-09-16,Galatasaray,4,2,Samsunspor
+2023-09-23,Istanbul Basaksehir,1,2,Galatasaray
+2023-09-30,Galatasaray,2,1,Ankaragucu
+2023-10-07,Antalyaspor,0,2,Galatasaray
+2023-10-21,Galatasaray,2,1,Besiktas
+2023-10-28,Rizespor,0,1,Galatasaray
+2023-11-03,Galatasaray,2,1,Kasimpasa
+2023-11-11,Hatayspor,2,1,Galatasaray
+2023-11-25,Galatasaray,4,0,Alanyaspor
+2023-12-02,Pendikspor,0,2,Galatasaray
+2023-12-08,Galatasaray,3,1,Adana Demirspor
+2024-01-11,Sivasspor,1,1,Galatasaray
+2023-12-20,Galatasaray,1,0,Fatih Karagümrük
+2023-12-24,Fenerbahce,0,0,Galatasaray
+2024-01-07,Galatasaray,3,0,Konyaspor
+2024-01-15,Galatasaray,2,1,Kayserispor
+2024-01-21,Trabzonspor,1,5,Galatasaray
+2024-01-25,Galatasaray,3,1,İstanbulspor
+2024-01-29,Galatasaray,2,1,Gazişehir Gaziantep
+2024-02-02,Samsunspor,0,2,Galatasaray
+2024-02-10,Galatasaray,2,0,Istanbul Basaksehir
+2024-02-18,Ankaragucu,0,3,Galatasaray
+2024-02-26,Galatasaray,,,Antalyaspor
+2024-03-03,Besiktas,,,Galatasaray
+2024-03-10,Galatasaray,,,Rizespor
+2024-03-17,Kasimpasa,,,Galatasaray
+2024-04-03,Galatasaray,,,Hatayspor
+2024-04-07,Alanyaspor,,,Galatasaray
+2024-04-14,Galatasaray,,,Pendikspor
+2024-04-21,Adana Demirspor,,,Galatasaray
+2024-04-28,Galatasaray,,,Sivasspor
+2024-05-12,Fatih Karagümrük,,,Galatasaray
+2024-05-12,Galatasaray,,,Fenerbahce
+2024-05-19,Konyaspor,,,Galatasaray
+2023-07-23,FC Vaduz,0,2,FC Sion
+2023-07-28,FC Sion,1,0,FC Aarau
+2023-08-04,FC Sion,1,0,Bellinzona
+2023-08-11,FC WIL 1900,0,0,FC Sion
+2023-08-25,Stade Nyonnais,1,2,FC Sion
+2023-09-01,FC Sion,1,1,Baden
+2023-09-22,FC Schaffhausen,1,1,FC Sion
+2023-09-25,FC Sion,2,3,FC Thun
+2023-09-29,Neuchatel Xamax FC,0,3,FC Sion
+2023-10-06,FC Sion,3,0,FC WIL 1900
+2023-10-21,Baden,0,4,FC Sion
+2023-10-27,FC Sion,1,0,Neuchatel Xamax FC
+2023-11-05,Bellinzona,1,2,FC Sion
+2023-11-10,FC Sion,3,3,FC Vaduz
+2023-11-26,FC Aarau,0,0,FC Sion
+2023-12-12,FC Sion,1,1,Stade Nyonnais
+2023-12-08,FC Thun,1,1,FC Sion
+2023-12-15,FC Sion,2,1,FC Schaffhausen
+2024-01-26,FC WIL 1900,1,4,FC Sion
+2024-02-02,FC Sion,2,0,FC Aarau
+2024-02-09,FC Sion,4,1,Baden
+2024-02-16,FC Vaduz,1,2,FC Sion
+2024-02-23,FC Schaffhausen,,,FC Sion
+2024-03-03,FC Sion,,,Bellinzona
+2024-03-08,Neuchatel Xamax FC,,,FC Sion
+2024-03-15,FC Sion,,,FC Thun
+2024-03-29,Stade Nyonnais,,,FC Sion
+2024-04-05,FC Sion,,,FC Vaduz
+2024-04-12,Baden,,,FC Sion
+2024-04-19,FC Sion,,,Stade Nyonnais
+2024-04-22,FC Thun,,,FC Sion
+2024-04-26,FC Sion,,,Neuchatel Xamax FC
+2024-05-03,FC Sion,,,FC WIL 1900
+2024-05-09,FC Aarau,,,FC Sion
+2024-05-17,Bellinzona,,,FC Sion
+2024-05-20,FC Sion,,,FC Schaffhausen
+2023-08-19,Inter,2,0,Monza
+2023-08-20,Sassuolo,0,2,Atalanta
+2023-08-28,Cagliari,0,2,Inter
+2023-08-26,Frosinone,2,1,Atalanta
+2023-09-02,Atalanta,3,0,Monza
+2023-09-03,Inter,4,0,Fiorentina
+2023-09-17,Fiorentina,3,2,Atalanta
+2023-09-16,Inter,5,1,AC Milan
+2023-09-24,Atalanta,2,0,Cagliari
+2023-09-24,Empoli,0,1,Inter
+2023-09-27,Verona,0,1,Atalanta
+2023-09-27,Inter,1,2,Sassuolo
+2023-10-01,Atalanta,0,0,Juventus
+2023-09-30,Salernitana,0,4,Inter
+2023-10-07,Inter,2,2,Bologna
+2023-10-08,Lazio,3,2,Atalanta
+2023-10-22,Atalanta,2,0,Genoa
+2023-10-21,Torino,0,3,Inter
+2023-10-30,Empoli,0,3,Atalanta
+2023-10-29,Inter,1,0,AS Roma
+2023-11-04,Atalanta,1,2,Inter
+2023-11-12,Inter,2,0,Frosinone
+2023-11-12,Udinese,1,1,Atalanta
+2023-11-25,Atalanta,1,2,Napoli
+2023-11-26,Juventus,1,1,Inter
+2023-12-03,Napoli,0,3,Inter
+2023-12-04,Torino,3,0,Atalanta
+2023-12-09,Atalanta,3,2,AC Milan
+2023-12-09,Inter,4,0,Udinese
+2023-12-18,Atalanta,4,1,Salernitana
+2023-12-17,Lazio,0,2,Inter
+2023-12-23,Bologna,1,0,Atalanta
+2023-12-23,Inter,2,0,Lecce
+2023-12-30,Atalanta,1,0,Lecce
+2023-12-29,Genoa,1,1,Inter
+2024-01-06,Inter,2,1,Verona
+2024-01-07,AS Roma,1,1,Atalanta
+2024-01-15,Atalanta,5,0,Frosinone
+2024-01-13,Monza,1,5,Inter
+2024-02-28,Inter,,,Atalanta
+2024-01-27,Atalanta,2,0,Udinese
+2024-01-28,Fiorentina,0,1,Inter
+2024-02-04,Atalanta,3,1,Lazio
+2024-02-04,Inter,1,0,Juventus
+2024-02-11,Genoa,1,4,Atalanta
+2024-02-10,AS Roma,2,4,Inter
+2024-02-17,Atalanta,3,0,Sassuolo
+2024-02-16,Inter,4,0,Salernitana
+2024-02-25,Lecce,,,Inter
+2024-02-25,AC Milan,,,Atalanta
+2024-03-03,Atalanta,,,Bologna
+2024-03-04,Inter,,,Genoa
+2024-03-10,Bologna,,,Inter
+2024-03-10,Juventus,,,Atalanta
+2024-03-17,Atalanta,,,Fiorentina
+2024-03-17,Inter,,,Napoli
+2024-03-30,Inter,,,Empoli
+2024-03-30,Napoli,,,Atalanta
+2024-04-07,Cagliari,,,Atalanta
+2024-04-07,Udinese,,,Inter
+2024-04-14,Atalanta,,,Verona
+2024-04-14,Inter,,,Cagliari
+2024-04-21,AC Milan,,,Inter
+2024-04-21,Monza,,,Atalanta
+2024-04-28,Atalanta,,,Empoli
+2024-04-28,Inter,,,Torino
+2024-05-05,Salernitana,,,Atalanta
+2024-05-05,Sassuolo,,,Inter
+2024-05-12,Atalanta,,,AS Roma
+2024-05-12,Frosinone,,,Inter
+2024-05-19,Inter,,,Lazio
+2024-05-19,Lecce,,,Atalanta
+2024-05-26,Atalanta,,,Torino
+2024-05-26,Verona,,,Inter
+2023-08-26,Deportivo La Coruna,0,0,Rayo Majadahonda
+2023-09-02,Lugo,0,3,Deportivo La Coruna
+2023-09-10,Deportivo La Coruna,0,0,Teruel
+2023-09-16,Unionistas de Salamanca,1,1,Deportivo La Coruna
+2023-09-23,Deportivo La Coruna,1,1,Cornellà
+2023-10-01,Fuenlabrada,2,1,Deportivo La Coruna
+2023-10-08,Deportivo La Coruna,0,1,Celta de Vigo II
+2023-10-15,Ponferradina,1,1,Deportivo La Coruna
+2023-10-21,Sabadell,0,1,Deportivo La Coruna
+2023-10-29,Deportivo La Coruna,1,0,Gimnastic
+2023-11-05,Real Unión,3,0,Deportivo La Coruna
+2023-11-11,Deportivo La Coruna,2,0,SD Logroñés
+2023-11-18,Tarazona,1,1,Deportivo La Coruna
+2023-11-26,Deportivo La Coruna,1,1,Osasuna II
+2023-12-03,Barcelona B,1,2,Deportivo La Coruna
+2023-12-10,Deportivo La Coruna,1,1,Sestao River
+2023-12-17,Arenteiro,1,2,Deportivo La Coruna
+2024-01-04,Deportivo La Coruna,2,1,Real Sociedad II
+2024-01-14,Cultural Leonesa,1,0,Deportivo La Coruna
+2024-01-21,Deportivo La Coruna,2,0,Ponferradina
+2024-01-28,Celta de Vigo II,1,2,Deportivo La Coruna
+2024-02-04,Deportivo La Coruna,4,1,Fuenlabrada
+2024-02-10,SD Logroñés,0,5,Deportivo La Coruna
+2024-02-18,Deportivo La Coruna,4,1,Tarazona
+2024-02-25,Osasuna II,,,Deportivo La Coruna
+2024-03-03,Deportivo La Coruna,,,Lugo
+2024-03-10,Gimnastic,,,Deportivo La Coruna
+2024-03-17,Deportivo La Coruna,,,Sabadell
+2024-03-24,Rayo Majadahonda,,,Deportivo La Coruna
+2024-03-30,Cornellà,,,Deportivo La Coruna
+2024-04-07,Deportivo La Coruna,,,Unionistas de Salamanca
+2024-04-14,Teruel,,,Deportivo La Coruna
+2024-04-21,Deportivo La Coruna,,,Cultural Leonesa
+2024-04-28,Deportivo La Coruna,,,Arenteiro
+2024-05-05,Sestao River,,,Deportivo La Coruna
+2024-05-12,Deportivo La Coruna,,,Barcelona B
+2024-05-19,Real Sociedad II,,,Deportivo La Coruna
+2024-05-26,Deportivo La Coruna,,,Real Unión
+2023-08-06,Leeds,2,2,Cardiff
+2023-08-12,Birmingham,1,0,Leeds
+2023-08-18,Leeds,1,1,West Brom
+2023-08-26,Ipswich,3,4,Leeds
+2023-09-02,Leeds,0,0,Sheffield Wednesday
+2023-09-17,Millwall,0,3,Leeds
+2023-09-20,Hull City,0,0,Leeds
+2023-09-23,Leeds,3,0,Watford
+2023-09-30,Southampton,3,1,Leeds
+2023-10-04,Leeds,1,0,QPR
+2023-10-07,Leeds,2,1,Bristol City
+2023-10-21,Norwich,2,3,Leeds
+2023-10-25,Stoke City,1,0,Leeds
+2023-10-28,Leeds,4,1,Huddersfield
+2023-11-03,Leicester,0,1,Leeds
+2023-11-11,Leeds,2,1,Plymouth
+2023-11-24,Rotherham,1,1,Leeds
+2023-11-29,Leeds,3,1,Swansea
+2023-12-02,Leeds,3,2,Middlesbrough
+2023-12-09,Blackburn,0,2,Leeds
+2023-12-12,Sunderland,1,0,Leeds
+2023-12-16,Leeds,1,1,Coventry
+2023-12-23,Leeds,4,0,Ipswich
+2023-12-26,Preston,2,1,Leeds
+2023-12-29,West Brom,1,0,Leeds
+2024-01-01,Leeds,3,0,Birmingham
+2024-01-13,Cardiff,0,3,Leeds
+2024-01-21,Leeds,2,1,Preston
+2024-01-24,Leeds,1,0,Norwich
+2024-02-02,Bristol City,0,1,Leeds
+2024-02-10,Leeds,3,0,Rotherham
+2024-02-13,Swansea,0,4,Leeds
+2024-02-17,Plymouth,0,2,Leeds
+2024-02-23,Leeds,,,Leicester
+2024-03-02,Huddersfield,,,Leeds
+2024-03-05,Leeds,,,Stoke City
+2024-03-08,Sheffield Wednesday,,,Leeds
+2024-03-17,Leeds,,,Millwall
+2024-03-29,Watford,,,Leeds
+2024-04-01,Leeds,,,Hull City
+2024-04-06,Coventry,,,Leeds
+2024-04-09,Leeds,,,Sunderland
+2024-04-13,Leeds,,,Blackburn
+2024-04-20,Middlesbrough,,,Leeds
+2024-04-27,QPR,,,Leeds
+2024-05-04,Leeds,,,Southampton
+2023-08-14,Abha,1,3,Al-Hilal Saudi FC
+2023-08-14,Al-Ettifaq,2,1,Al-Nassr
+2023-08-18,Al-Nassr,0,2,Al Taawon
+2023-08-19,Al-Hilal Saudi FC,1,1,Al-Fayha
+2023-08-24,Al-Raed,0,4,Al-Hilal Saudi FC
+2023-08-25,Al-Fateh,0,5,Al-Nassr
+2023-08-28,Al-Hilal Saudi FC,2,0,Al-Ettifaq
+2023-08-29,Al-Nassr,4,0,Al Shabab
+2023-09-01,Al-Ittihad FC,3,4,Al-Hilal Saudi FC
+2023-09-02,Al-Hazm,1,5,Al-Nassr
+2023-09-16,Al-Raed,1,3,Al-Nassr
+2023-09-15,Al-Hilal Saudi FC,6,1,Al Riyadh
+2023-09-21,Damac,1,1,Al-Hilal Saudi FC
+2023-09-22,Al-Nassr,4,3,Al-Ahli Jeddah
+2023-09-29,Al Taee,1,2,Al-Nassr
+2023-09-29,Al-Hilal Saudi FC,2,0,Al Shabab
+2023-10-07,Al Akhdoud,0,3,Al-Hilal Saudi FC
+2023-10-06,Al-Nassr,2,2,Abha
+2023-10-21,Al-Nassr,2,1,Damac
+2023-10-20,Al-Hilal Saudi FC,1,0,Al Khaleej Saihat
+2023-10-27,Al-Hilal Saudi FC,3,1,Al-Ahli Jeddah
+2023-10-28,Al-Fayha,1,3,Al-Nassr
+2023-11-04,Al-Nassr,2,0,Al Khaleej Saihat
+2023-11-03,Al-Fateh,0,2,Al-Hilal Saudi FC
+2023-11-11,Al Wehda Club,1,3,Al-Nassr
+2023-11-10,Al-Hilal Saudi FC,2,0,Al Taawon
+2023-11-25,Al-Hazm,0,9,Al-Hilal Saudi FC
+2023-11-24,Al-Nassr,3,0,Al Akhdoud
+2023-12-01,Al-Hilal Saudi FC,3,0,Al-Nassr
+2023-12-08,Al Taee,1,2,Al-Hilal Saudi FC
+2023-12-08,Al-Nassr,4,1,Al Riyadh
+2023-12-26,Al-Ittihad FC,2,5,Al-Nassr
+2023-12-15,Al-Hilal Saudi FC,2,0,Al Wehda Club
+2023-12-21,Al-Hilal Saudi FC,7,0,Abha
+2023-12-22,Al-Nassr,3,1,Al-Ettifaq
+2023-12-29,Al-Fayha,0,2,Al-Hilal Saudi FC
+2023-12-30,Al Taawon,1,4,Al-Nassr
+2024-02-17,Al-Nassr,2,1,Al-Fateh
+2024-02-18,Al-Hilal Saudi FC,3,1,Al-Raed
+2024-02-26,Al-Ettifaq,,,Al-Hilal Saudi FC
+2024-02-25,Al Shabab,,,Al-Nassr
+2024-02-29,Al-Nassr,,,Al-Hazm
+2024-03-01,Al-Hilal Saudi FC,,,Al-Ittihad FC
+2024-03-07,Al-Nassr,,,Al-Raed
+2024-03-08,Al Riyadh,,,Al-Hilal Saudi FC
+2024-03-15,Al-Ahli Jeddah,,,Al-Nassr
+2024-03-16,Al-Hilal Saudi FC,,,Damac
+2024-04-04,Al-Nassr,,,Al Taee
+2024-04-04,Al Shabab,,,Al-Hilal Saudi FC
+2024-04-11,Abha,,,Al-Nassr
+2024-04-11,Al-Hilal Saudi FC,,,Al Akhdoud
+2024-04-18,Damac,,,Al-Nassr
+2024-04-18,Al Khaleej Saihat,,,Al-Hilal Saudi FC
+2024-04-25,Al-Nassr,,,Al-Fayha
+2024-04-25,Al-Ahli Jeddah,,,Al-Hilal Saudi FC
+2024-05-02,Al Khaleej Saihat,,,Al-Nassr
+2024-05-02,Al-Hilal Saudi FC,,,Al-Fateh
+2024-05-06,Al-Nassr,,,Al Wehda Club
+2024-05-06,Al Taawon,,,Al-Hilal Saudi FC
+2024-05-09,Al Akhdoud,,,Al-Nassr
+2024-05-09,Al-Hilal Saudi FC,,,Al-Hazm
+2024-05-16,Al-Nassr,,,Al-Hilal Saudi FC
+2024-05-23,Al Riyadh,,,Al-Nassr
+2024-05-23,Al-Hilal Saudi FC,,,Al Taee
+2024-05-27,Al-Nassr,,,Al-Ittihad FC
+2024-05-27,Al Wehda Club,,,Al-Hilal Saudi FC
+2023-07-23,Sparta Praha,2,0,Sigma Olomouc
+2023-07-29,Zlin,0,1,Sparta Praha
+2023-08-05,Sparta Praha,5,2,Pardubice
+2023-08-12,FK Jablonec,1,5,Sparta Praha
+2023-08-19,Teplice,1,1,Sparta Praha
+2023-08-27,Sparta Praha,3,1,Karviná
+2023-09-03,Slovan Liberec,0,2,Sparta Praha
+2023-09-17,Sparta Praha,5,0,Slovácko
+2023-09-24,Slavia Praha,1,1,Sparta Praha
+2023-09-30,Sparta Praha,2,1,Plzen
+2023-10-08,Hradec Králové,1,3,Sparta Praha
+2023-10-22,Sparta Praha,4,0,České Budějovice
+2023-10-29,Mlada Boleslav,3,1,Sparta Praha
+2023-11-04,Sparta Praha,2,0,Bohemians 1905
+2023-11-12,Baník Ostrava,0,1,Sparta Praha
+2023-11-26,Sparta Praha,2,0,Zlin
+2023-12-03,Pardubice,1,2,Sparta Praha
+2023-12-09,Sparta Praha,3,0,FK Jablonec
+2023-12-17,Sparta Praha,2,1,Teplice
+2024-02-10,Karviná,0,3,Sparta Praha
+2024-02-18,Sparta Praha,2,1,Slovan Liberec
+2024-02-25,Slovácko,,,Sparta Praha
+2024-03-03,Sparta Praha,,,Slavia Praha
+2024-03-10,Plzen,,,Sparta Praha
+2024-03-16,Sparta Praha,,,Hradec Králové
+2024-03-30,České Budějovice,,,Sparta Praha
+2024-04-06,Sparta Praha,,,Mlada Boleslav
+2024-04-13,Bohemians 1905,,,Sparta Praha
+2024-04-20,Sparta Praha,,,Baník Ostrava
+2024-04-27,Sigma Olomouc,,,Sparta Praha
+2023-07-14,Rapid,0,0,Sepsi OSK Sfantu Gheorghe
+2023-07-23,Universitatea Cluj,0,3,Rapid
+2023-07-28,Rapid,2,2,FC Botosani
+2023-08-07,FC Voluntari,2,1,Rapid
+2023-08-13,Rapid,0,2,Petrolul Ploiesti
+2023-08-20,Rapid,3,1,Farul Constanta
+2023-08-25,U Craiova 1948,3,5,Rapid
+2023-09-01,Rapid,4,0,Dinamo Bucuresti
+2023-09-17,Oţelul,0,0,Rapid
+2023-09-25,Rapid,3,1,CFR 1907 Cluj
+2023-10-01,AFC Hermannstadt,1,1,Rapid
+2023-10-06,Rapid,3,2,Politehnica Iasi
+2023-10-20,Uta Arad,2,2,Rapid
+2023-10-29,Rapid,2,0,Universitatea Craiova
+2023-11-05,FCSB,1,2,Rapid
+2023-11-10,Sepsi OSK Sfantu Gheorghe,0,0,Rapid
+2023-11-27,Rapid,2,3,Universitatea Cluj
+2023-12-02,FC Botosani,0,0,Rapid
+2023-12-09,Rapid,1,2,FC Voluntari
+2023-12-15,Petrolul Ploiesti,0,0,Rapid
+2023-12-20,Farul Constanta,0,0,Rapid
+2024-01-19,Rapid,4,3,U Craiova 1948
+2024-01-27,Dinamo Bucuresti,1,2,Rapid
+2024-02-03,Rapid,2,1,Oţelul
+2024-02-10,CFR 1907 Cluj,0,1,Rapid
+2024-02-16,Rapid,2,0,AFC Hermannstadt
+2024-02-24,Politehnica Iasi,,,Rapid
+2024-02-28,Rapid,,,Uta Arad
+2024-03-04,Universitatea Craiova,,,Rapid
+2024-03-09,Rapid,,,FCSB
+2023-10-21,CD Olivais e Moscavide,1,3,Sporting CP
+2023-11-26,Sporting CP,8,0,Dumiense
+2024-01-09,Sporting CP,4,0,Tondela
+2024-02-07,União de Leiria,0,3,Sporting CP
+2024-02-29,Sporting CP,,,Benfica
+2024-04-03,Benfica,,,Sporting CP
+2023-08-12,Arsenal,2,1,Nottingham Forest
+2023-08-21,Crystal Palace,0,1,Arsenal
+2023-08-26,Arsenal,2,2,Fulham
+2023-09-03,Arsenal,3,1,Manchester United
+2023-09-17,Everton,0,1,Arsenal
+2023-09-24,Arsenal,2,2,Tottenham
+2023-09-30,Bournemouth,0,4,Arsenal
+2023-10-08,Arsenal,1,0,Manchester City
+2023-10-21,Chelsea,2,2,Arsenal
+2023-10-28,Arsenal,5,0,Sheffield Utd
+2023-11-04,Newcastle,1,0,Arsenal
+2023-11-11,Arsenal,3,1,Burnley
+2023-11-25,Brentford,0,1,Arsenal
+2023-12-02,Arsenal,2,1,Wolves
+2023-12-05,Luton,3,4,Arsenal
+2023-12-09,Aston Villa,1,0,Arsenal
+2023-12-17,Arsenal,2,0,Brighton
+2023-12-23,Liverpool,1,1,Arsenal
+2023-12-28,Arsenal,0,2,West Ham
+2023-12-31,Fulham,2,1,Arsenal
+2024-01-20,Arsenal,5,0,Crystal Palace
+2024-01-30,Nottingham Forest,1,2,Arsenal
+2024-02-04,Arsenal,3,1,Liverpool
+2024-02-11,West Ham,0,6,Arsenal
+2024-02-17,Burnley,0,5,Arsenal
+2024-02-24,Arsenal,,,Newcastle
+2024-03-04,Sheffield Utd,,,Arsenal
+2024-03-09,Arsenal,,,Brentford
+2024-03-16,Arsenal,,,Chelsea
+2024-03-31,Manchester City,,,Arsenal
+2024-04-02,Arsenal,,,Luton
+2024-04-06,Brighton,,,Arsenal
+2024-04-13,Arsenal,,,Aston Villa
+2024-04-20,Wolves,,,Arsenal
+2024-04-27,Tottenham,,,Arsenal
+2024-05-04,Arsenal,,,Bournemouth
+2024-05-11,Manchester United,,,Arsenal
+2024-05-19,Arsenal,,,Everton
+2023-09-05,Hanwell Town,0,3,Chesham United
+2023-08-12,Chesham United,2,1,Hungerford Town
+2023-08-15,Hayes & Yeading United,1,2,Chesham United
+2023-08-19,Chesham United,4,3,Plymouth Parkway
+2023-08-26,Dorchester Town,0,2,Chesham United
+2023-08-28,Chesham United,3,0,Beaconsfield Town
+2023-09-09,Merthyr Town,1,3,Chesham United
+2023-10-10,Chesham United,1,1,Didcot Town
+2023-09-23,Chesham United,1,2,Winchester City
+2023-09-26,Walton & Hersham,2,2,Chesham United
+2023-11-07,Swindon Supermarine,2,1,Chesham United
+2023-11-21,Chesham United,2,1,Sholing
+2023-10-21,Poole Town,2,5,Chesham United
+2023-10-24,Chesham United,2,1,Hendon
+2024-03-09,Salisbury,,,Chesham United
+2023-12-05,Chesham United,2,0,Tiverton Town
+2023-11-11,Bracknell Town,4,0,Chesham United
+2023-11-18,Chesham United,2,0,Gosport Borough
+2023-11-25,Chesham United,2,0,Basingstoke Town
+2023-12-02,AFC Totton,2,2,Chesham United
+2024-02-06,Chesham United,2,1,Merthyr Town
+2023-12-16,Plymouth Parkway,4,0,Chesham United
+2023-12-23,Chesham United,2,0,Dorchester Town
+2023-12-26,Beaconsfield Town,1,2,Chesham United
+2024-01-01,Chesham United,4,0,Harrow Borough
+2024-01-06,Didcot Town,1,1,Chesham United
+2024-01-13,Hungerford Town,0,1,Chesham United
+2024-02-27,Chesham United,,,Hanwell Town
+2024-01-27,Chesham United,3,0,Walton & Hersham
+2024-02-03,Winchester City,0,3,Chesham United
+2024-02-10,Chesham United,4,0,Swindon Supermarine
+2024-02-17,Sholing,0,1,Chesham United
+2024-02-24,Chesham United,,,Poole Town
+2024-03-02,Hendon,,,Chesham United
+2024-03-16,Chesham United,,,AFC Totton
+2024-03-23,Basingstoke Town,,,Chesham United
+2024-03-30,Chesham United,,,Hayes & Yeading United
+2024-04-01,Harrow Borough,,,Chesham United
+2024-04-06,Chesham United,,,Salisbury
+2024-04-13,Tiverton Town,,,Chesham United
+2024-04-20,Chesham United,,,Bracknell Town
+2024-04-27,Gosport Borough,,,Chesham United
+2023-08-05,ST Johnstone,0,2,Heart OF Midlothian
+2023-08-05,Kilmarnock,1,0,Rangers
+2023-08-13,Heart OF Midlothian,0,0,Kilmarnock
+2023-08-12,Rangers,4,0,Livingston
+2023-08-26,Ross County,0,2,Rangers
+2023-08-27,Dundee,1,0,Heart OF Midlothian
+2023-09-03,Heart OF Midlothian,0,1,Motherwell
+2023-09-03,Rangers,0,1,Celtic
+2023-09-16,ST Johnstone,0,2,Rangers
+2023-09-16,Heart OF Midlothian,2,0,Aberdeen
+2023-09-24,Rangers,1,0,Motherwell
+2023-09-23,ST Mirren,1,0,Heart OF Midlothian
+2023-09-30,Rangers,1,3,Aberdeen
+2023-09-30,Ross County,0,1,Heart OF Midlothian
+2023-10-07,Heart OF Midlothian,2,2,Hibernian
+2023-10-08,ST Mirren,0,3,Rangers
+2023-10-22,Heart OF Midlothian,1,4,Celtic
+2023-10-21,Rangers,4,0,Hibernian
+2023-10-29,Rangers,2,1,Heart OF Midlothian
+2023-11-01,Dundee,0,5,Rangers
+2023-11-01,Heart OF Midlothian,1,0,Livingston
+2024-01-23,Heart OF Midlothian,3,2,Dundee
+2023-12-20,Rangers,2,0,ST Johnstone
+2023-11-12,Livingston,0,2,Rangers
+2023-11-11,Motherwell,1,2,Heart OF Midlothian
+2023-11-26,Aberdeen,1,1,Rangers
+2023-11-25,Heart OF Midlothian,1,0,ST Johnstone
+2023-12-02,Kilmarnock,0,1,Heart OF Midlothian
+2023-12-03,Rangers,2,0,ST Mirren
+2023-12-06,Heart OF Midlothian,0,1,Rangers
+2023-12-09,Aberdeen,2,1,Heart OF Midlothian
+2023-12-09,Rangers,3,1,Dundee
+2023-12-16,Celtic,0,2,Heart OF Midlothian
+2024-01-24,Hibernian,0,3,Rangers
+2023-12-23,Heart OF Midlothian,2,0,ST Mirren
+2023-12-24,Motherwell,0,2,Rangers
+2024-02-14,Rangers,3,1,Ross County
+2023-12-27,Hibernian,0,1,Heart OF Midlothian
+2023-12-30,Celtic,2,1,Rangers
+2023-12-30,Heart OF Midlothian,2,2,Ross County
+2024-01-02,Livingston,1,2,Heart OF Midlothian
+2024-01-02,Rangers,3,1,Kilmarnock
+2024-01-27,Heart OF Midlothian,2,0,Aberdeen
+2024-01-27,ST Mirren,0,1,Rangers
+2024-02-03,Dundee,2,3,Heart OF Midlothian
+2024-02-03,Rangers,3,0,Livingston
+2024-02-06,Rangers,2,1,Aberdeen
+2024-02-07,ST Johnstone,0,1,Heart OF Midlothian
+2024-02-17,Heart OF Midlothian,2,0,Motherwell
+2024-02-18,ST Johnstone,0,3,Rangers
+2024-02-24,Rangers,,,Heart OF Midlothian
+2024-02-28,Heart OF Midlothian,,,Hibernian
+2024-02-28,Kilmarnock,,,Rangers
+2024-03-03,Heart OF Midlothian,,,Celtic
+2024-03-02,Rangers,,,Motherwell
+2024-03-17,Dundee,,,Rangers
+2024-03-16,Ross County,,,Heart OF Midlothian
+2024-03-30,Heart OF Midlothian,,,Kilmarnock
+2024-03-30,Rangers,,,Hibernian
+2024-04-07,Rangers,,,Celtic
+2024-04-06,ST Mirren,,,Heart OF Midlothian
+2024-04-13,Heart OF Midlothian,,,Livingston
+2024-04-13,Ross County,,,Rangers
+2023-08-12,Sporting CP,3,2,Vizela
+2023-08-18,Casa Pia,1,2,Sporting CP
+2023-08-27,Sporting CP,1,0,Famalicao
+2023-09-03,SC Braga,1,1,Sporting CP
+2023-09-17,Sporting CP,3,0,Moreirense
+2023-09-25,Sporting CP,2,0,Rio Ave
+2023-09-30,Farense,2,3,Sporting CP
+2023-10-08,Sporting CP,2,1,Arouca
+2023-10-30,Boavista,0,2,Sporting CP
+2023-11-05,Sporting CP,3,2,Estrela
+2023-11-12,Benfica,2,1,Sporting CP
+2023-12-04,Sporting CP,3,1,GIL Vicente
+2023-12-09,Guimaraes,3,2,Sporting CP
+2023-12-18,Sporting CP,2,0,FC Porto
+2023-12-30,Portimonense,1,2,Sporting CP
+2024-01-05,Sporting CP,5,1,Estoril
+2024-01-13,Chaves,0,3,Sporting CP
+2024-01-18,Vizela,2,5,Sporting CP
+2024-01-29,Sporting CP,8,0,Casa Pia
+2024-02-03,Famalicao,,,Sporting CP
+2024-02-11,Sporting CP,5,0,SC Braga
+2024-02-19,Moreirense,0,2,Sporting CP
+2024-02-25,Rio Ave,,,Sporting CP
+2024-03-03,Sporting CP,,,Farense
+2024-03-10,Arouca,,,Sporting CP
+2024-03-17,Sporting CP,,,Boavista
+2024-03-30,Estrela,,,Sporting CP
+2024-04-07,Sporting CP,,,Benfica
+2024-04-14,GIL Vicente,,,Sporting CP
+2024-04-21,Sporting CP,,,Guimaraes
+2024-04-28,FC Porto,,,Sporting CP
+2024-05-05,Sporting CP,,,Portimonense
+2024-05-12,Estoril,,,Sporting CP
+2024-05-19,Sporting CP,,,Chaves
+2023-07-22,HNK Rijeka,4,0,Rudes
+2023-07-30,HNK Hajduk Split,1,0,HNK Rijeka
+2023-08-06,HNK Rijeka,6,0,Istra 1961
+2024-01-24,HNK Gorica,2,3,HNK Rijeka
+2023-08-20,HNK Rijeka,2,1,NK Lokomotiva Zagreb
+2023-08-27,Dinamo Zagreb,2,1,HNK Rijeka
+2023-09-03,HNK Rijeka,2,2,NK Varazdin
+2023-09-16,HNK Rijeka,2,1,NK Osijek
+2023-09-24,NK Slaven Belupo,0,1,HNK Rijeka
+2023-10-01,Rudes,1,2,HNK Rijeka
+2023-10-07,HNK Rijeka,1,0,HNK Hajduk Split
+2023-10-22,Istra 1961,1,1,HNK Rijeka
+2023-10-29,HNK Rijeka,1,0,HNK Gorica
+2023-11-03,NK Lokomotiva Zagreb,1,1,HNK Rijeka
+2023-11-12,HNK Rijeka,2,2,Dinamo Zagreb
+2023-11-25,NK Varazdin,0,2,HNK Rijeka
+2023-12-02,NK Osijek,0,0,HNK Rijeka
+2023-12-10,HNK Rijeka,2,4,NK Slaven Belupo
+2023-12-16,HNK Rijeka,3,0,Rudes
+2024-01-28,HNK Hajduk Split,1,2,HNK Rijeka
+2024-02-04,HNK Rijeka,3,0,Istra 1961
+2024-02-11,HNK Gorica,0,2,HNK Rijeka
+2024-02-17,HNK Rijeka,4,0,NK Lokomotiva Zagreb
+2024-02-25,Dinamo Zagreb,,,HNK Rijeka
+2024-03-03,HNK Rijeka,,,NK Varazdin
+2024-03-09,HNK Rijeka,,,NK Osijek
+2024-03-16,NK Slaven Belupo,,,HNK Rijeka
+2024-03-30,Rudes,,,HNK Rijeka
+2024-04-06,HNK Rijeka,,,HNK Hajduk Split
+2024-04-13,Istra 1961,,,HNK Rijeka
+2024-04-20,HNK Rijeka,,,HNK Gorica
+2024-04-27,NK Lokomotiva Zagreb,,,HNK Rijeka
+2024-05-04,HNK Rijeka,,,Dinamo Zagreb
+2024-05-11,NK Varazdin,,,HNK Rijeka
+2024-05-18,NK Osijek,,,HNK Rijeka
+2024-05-25,HNK Rijeka,,,NK Slaven Belupo
+2023-08-05,Dartford,3,3,Bath City
+2023-08-05,Taunton Town,2,1,Braintree
+2023-08-12,Bath City,3,0,Maidstone Utd
+2023-08-12,Braintree,3,2,Truro City
+2023-08-15,Bath City,2,6,Weston-super-Mare
+2023-08-15,Braintree,1,2,Maidstone Utd
+2023-08-19,Dover,1,1,Braintree
+2023-08-19,Eastbourne Borough,1,2,Bath City
+2023-08-26,Bath City,3,1,Hampton & Richmond
+2023-08-26,Braintree,0,0,Chippenham Town
+2023-08-28,St Albans City,0,2,Bath City
+2023-08-28,Torquay,2,1,Braintree
+2023-09-02,Bath City,2,0,Havant & Wville
+2023-09-02,Braintree,4,0,Worthing
+2023-09-05,Tonbridge Angels,0,0,Braintree
+2023-09-05,Truro City,1,1,Bath City
+2023-09-09,Braintree,1,1,Farnborough
+2023-09-09,Welling United,0,1,Bath City
+2023-09-23,Aveley,1,1,Braintree
+2023-09-23,Bath City,2,2,Dover
+2023-10-07,Braintree,1,1,Bath City
+2023-12-06,Bath City,0,1,Yeovil Town
+2023-12-05,Hampton & Richmond,1,1,Braintree
+2023-10-21,Braintree,2,0,Weston-super-Mare
+2023-10-21,Tonbridge Angels,3,2,Bath City
+2023-10-24,Bath City,3,0,Taunton Town
+2023-10-24,Hemel Hempstead Town,0,2,Braintree
+2023-10-28,Bath City,0,2,Worthing
+2023-10-28,Yeovil Town,2,0,Braintree
+2023-11-04,Braintree,4,1,Havant & Wville
+2023-11-04,Torquay,1,0,Bath City
+2023-11-07,Braintree,4,0,St Albans City
+2023-11-07,Weymouth,1,5,Bath City
+2023-11-11,Bath City,3,0,Aveley
+2023-11-11,Eastbourne Borough,3,1,Braintree
+2024-01-09,Bath City,1,2,Slough Town
+2023-11-14,Braintree,4,1,Welling United
+2023-11-21,Dartford,0,2,Braintree
+2023-11-21,Hemel Hempstead Town,0,0,Bath City
+2023-11-25,Farnborough,2,2,Bath City
+2023-11-25,Slough Town,3,0,Braintree
+2023-12-02,Bath City,2,3,Chelmsford City
+2024-03-19,Braintree,,,Weymouth
+2023-12-16,Braintree,1,0,Aveley
+2023-12-16,Dover,0,0,Bath City
+2023-12-23,Bath City,4,0,Welling United
+2023-12-23,Farnborough,1,0,Braintree
+2023-12-26,Braintree,0,3,Chelmsford City
+2023-12-26,Chippenham Town,1,2,Bath City
+2024-01-01,Bath City,0,0,Chippenham Town
+2024-01-01,Chelmsford City,3,0,Braintree
+2024-01-06,Braintree,3,1,Hampton & Richmond
+2024-01-06,Yeovil Town,2,0,Bath City
+2024-02-27,Bath City,,,Braintree
+2024-02-10,Bath City,1,0,Dartford
+2024-04-09,Braintree,,,Taunton Town
+2024-01-23,Maidstone Utd,1,1,Braintree
+2024-01-23,Weston-super-Mare,0,1,Bath City
+2024-03-05,Maidstone Utd,,,Bath City
+2024-01-27,Truro City,1,2,Braintree
+2024-02-03,Bath City,1,0,Eastbourne Borough
+2024-02-03,Braintree,3,0,Dover
+2024-02-10,Chippenham Town,0,1,Braintree
+2024-04-09,Hampton & Richmond,,,Bath City
+2024-02-17,Bath City,3,1,St Albans City
+2024-02-17,Braintree,1,0,Torquay
+2024-02-20,Bath City,2,1,Truro City
+2024-02-20,Braintree,1,0,Tonbridge Angels
+2024-02-24,Havant & Wville,,,Bath City
+2024-02-24,Worthing,,,Braintree
+2024-03-02,Slough Town,,,Bath City
+2024-03-02,Welling United,,,Braintree
+2024-03-09,Bath City,,,Farnborough
+2024-03-09,Braintree,,,Slough Town
+2024-03-12,Bath City,,,Hemel Hempstead Town
+2024-03-12,Braintree,,,Dartford
+2024-03-16,Chelmsford City,,,Bath City
+2024-03-16,Weymouth,,,Braintree
+2024-03-23,Braintree,,,Yeovil Town
+2024-03-24,Worthing,,,Bath City
+2024-03-29,Bath City,,,Weymouth
+2024-03-29,St Albans City,,,Braintree
+2024-04-01,Braintree,,,Hemel Hempstead Town
+2024-04-01,Taunton Town,,,Bath City
+2024-04-06,Bath City,,,Tonbridge Angels
+2024-04-06,Weston-super-Mare,,,Braintree
+2024-04-13,Bath City,,,Torquay
+2024-04-13,Havant & Wville,,,Braintree
+2024-04-20,Aveley,,,Bath City
+2024-04-20,Braintree,,,Eastbourne Borough
+2023-07-28,BW Lohne,2,1,Hannover 96 II
+2023-08-05,Hannover 96 II,3,2,Phönix Lübeck
+2023-08-11,Kilia Kiel,3,5,Hannover 96 II
+2023-08-19,Hannover 96 II,3,2,Havelse
+2023-08-26,SV Meppen,5,2,Hannover 96 II
+2024-02-24,Hannover 96 II,,,Weiche Flensburg
+2023-09-19,Hamburger SV II,2,1,Hannover 96 II
+2023-09-16,Hannover 96 II,2,1,Eintracht Norderstedt
+2023-09-24,Teutonia Ottensen,2,3,Hannover 96 II
+2023-09-30,Hannover 96 II,3,0,SV Drochtersen/assel
+2023-10-06,Holstein Kiel II,0,1,Hannover 96 II
+2023-10-14,Hannover 96 II,4,0,Bremer Sv
+2023-10-22,VfB Oldenburg,2,1,Hannover 96 II
+2023-10-28,Hannover 96 II,9,2,Spelle-Venhaus
+2024-05-04,Hannover 96 II,,,SSV Jeddeloh
+2023-11-11,Eimsbütteler TV,1,1,Hannover 96 II
+2023-11-18,Hannover 96 II,2,1,St. Pauli II
+2023-11-25,Hannover 96 II,4,1,BW Lohne
+2024-01-27,Phönix Lübeck,,,Hannover 96 II
+2023-12-09,Hannover 96 II,2,1,Kilia Kiel
+2024-02-11,Havelse,1,4,Hannover 96 II
+2024-02-18,Hannover 96 II,2,1,SV Meppen
+2023-09-01,Weiche Flensburg,1,1,Hannover 96 II
+2024-03-02,Hannover 96 II,,,Hamburger SV II
+2024-03-10,Eintracht Norderstedt,,,Hannover 96 II
+2024-03-16,Hannover 96 II,,,Teutonia Ottensen
+2024-03-24,SV Drochtersen/assel,,,Hannover 96 II
+2024-04-06,Hannover 96 II,,,Holstein Kiel II
+2024-04-14,Bremer Sv,,,Hannover 96 II
+2024-04-20,Hannover 96 II,,,VfB Oldenburg
+2024-04-28,Spelle-Venhaus,,,Hannover 96 II
+2023-11-04,SSV Jeddeloh,2,6,Hannover 96 II
+2024-05-11,Hannover 96 II,,,Eimsbütteler TV
+2024-05-18,St. Pauli II,,,Hannover 96 II
+2023-08-13,Rennes,5,1,Metz
+2023-08-20,Lens,1,1,Rennes
+2023-08-27,Rennes,2,2,LE Havre
+2023-09-02,Stade Brestois 29,0,0,Rennes
+2023-09-16,Rennes,2,2,Lille
+2023-09-24,Montpellier,0,0,Rennes
+2023-10-01,Rennes,3,1,Nantes
+2023-10-08,Rennes,1,3,Paris Saint Germain
+2023-10-22,Lorient,2,1,Rennes
+2023-10-29,Rennes,1,1,Strasbourg
+2023-11-05,Nice,2,0,Rennes
+2023-11-12,Rennes,0,1,Lyon
+2023-11-26,Rennes,3,1,Reims
+2023-12-03,Marseille,2,0,Rennes
+2023-12-09,Rennes,1,2,Monaco
+2023-12-17,Toulouse,0,0,Rennes
+2023-12-20,Clermont Foot,1,3,Rennes
+2024-01-13,Rennes,2,0,Nice
+2024-01-26,Lyon,2,3,Rennes
+2024-02-03,Rennes,2,1,Montpellier
+2024-02-11,LE Havre,0,1,Rennes
+2024-02-18,Rennes,3,1,Clermont Foot
+2024-02-25,Paris Saint Germain,,,Rennes
+2024-03-03,Rennes,,,Lorient
+2024-03-10,Lille,,,Rennes
+2024-03-17,Rennes,,,Marseille
+2024-03-31,Strasbourg,,,Rennes
+2024-04-07,Monaco,,,Rennes
+2024-04-14,Rennes,,,Toulouse
+2024-04-21,Nantes,,,Rennes
+2024-04-28,Rennes,,,Stade Brestois 29
+2024-05-03,Metz,,,Rennes
+2024-05-11,Rennes,,,Lens
+2024-05-18,Reims,,,Rennes
