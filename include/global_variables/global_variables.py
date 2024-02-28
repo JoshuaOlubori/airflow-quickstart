@@ -3,6 +3,7 @@
 # --------------- #
 
 from airflow import Dataset
+from airflow.models import Variable
 import logging
 import os
 from minio import Minio
@@ -32,6 +33,10 @@ FIXTURES_DATA_PATH = (
     f"{os.environ['AIRFLOW_HOME']}/include/fixtures_data/all_fixtures_combined.csv"
 )
 
+FIXTURES_DATA_FOLDER = (
+    f"{os.environ['AIRFLOW_HOME']}/include/fixtures_data/"
+)
+
 RESULTS_DATA_PATH = (
     f"{os.environ['AIRFLOW_HOME']}/include/results/"
 )
@@ -48,6 +53,17 @@ DS_FIXTURES_DATA_MINIO = Dataset(f"minio://{FIXTURES_BUCKET_NAME}")
 DS_DUCKDB_IN_FIXTURES = Dataset(f"duckdb://{FIXTURES_IN_TABLE_NAME}")
 DS_DUCKDB_REPORTING = Dataset("duckdb://reporting")
 DS_START = Dataset("start")
+DS_INGEST = Dataset("ingest")
+
+# API KEYS
+
+API_ENDPOINT = Variable.get("API_ENDPOINT")
+API_KEY = Variable.get("API_KEY")
+API_HOST = Variable.get("API_HOST")
+
+# API_ENDPOINT = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
+# API_KEY = "8feeed635dmshbab9080dc4f248bp112d75jsn9661eab3597b"
+# API_HOST = "api-football-v1.p.rapidapi.com"
 
 
 

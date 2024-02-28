@@ -36,7 +36,7 @@ from include.custom_operators.minio import (
     # render Jinja templates as native objects (e.g. dictionary) instead of strings
     render_template_as_native_obj=True,
 )
-def load_data():
+def d_load_data():
 
     # # create an instance of the CreateBucket task group consisting of 5 tasks
     # create_bucket_tg = CreateBucket(
@@ -62,6 +62,9 @@ def load_data():
         # use read_csv_auto to load data to duckdb
         cursor = duckdb.connect(gv.DUCKDB_INSTANCE_NAME)
         cursor.execute(
+            f"""DROP TABLE IF EXISTS {gv.FIXTURES_IN_TABLE_NAME};"""
+        )
+        cursor.execute(
             f"""CREATE TABLE IF NOT EXISTS {gv.FIXTURES_IN_TABLE_NAME} AS
             SELECT * FROM read_csv_auto('{obj}');"""
         )
@@ -72,26 +75,26 @@ def load_data():
         os.remove(obj)
 
 
-    @task
-    def get_deletion_args(obj_list_fixtures):
-        """Return tuples with bucket names and bucket contents."""
+    # @task
+    # def get_deletion_args(obj_list_fixtures):
+    #     """Return tuples with bucket names and bucket contents."""
 
-        return [
-            {"bucket_name": gv.FIXTURES_BUCKET_NAME, "object_names": obj_list_fixtures}
-        ]
+    #     return [
+    #         {"bucket_name": gv.FIXTURES_BUCKET_NAME, "object_names": obj_list_fixtures}
+    #     ]
 
-    delete_objects = MinIODeleteObjectsOperator.partial(
-        task_id="delete_objects",
-    ).expand_kwargs(
-        get_deletion_args(list_files_fixtures_bucket.output
-        )
-    )
+    # delete_objects = MinIODeleteObjectsOperator.partial(
+    #     task_id="delete_objects",
+    # ).expand_kwargs(
+    #     get_deletion_args(list_files_fixtures_bucket.output
+    #     )
+    # )
 
     # set dependencies
 
     fixtures_data = load_fixtures_data.expand(obj=list_files_fixtures_bucket.output)
 
-    fixtures_data >> delete_objects
+    # fixtures_data >> delete_objects
 
 
-load_data()
+d_load_data()

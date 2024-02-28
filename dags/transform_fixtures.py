@@ -36,6 +36,25 @@ from include.logic import apply_filtering_logic, won_last_5_matches
 # Create a reporting table that counts heat days per year for each city location
 
 
+# def lenzi(df):
+#     """Function to check for empty dataframe"""
+#     return len(df.index) == 0
+
+import pandas as pd
+
+# Create a DataFrame with headers
+default_df = pd.DataFrame(columns=['Date', 'HomeTeam', 'HomeScore', 'AwayScore', 'AwayTeam'])
+
+# Add a row with the specified phrase
+row_data = {
+    'Date': 'no',
+    'HomeTeam': 'fixtures',
+    'HomeScore': 'satisfies',
+    'AwayScore': 'condition',
+    'AwayTeam': ' yet'
+}
+default_df = default_df.append(row_data, ignore_index=True)
+
 
 # ---------- #
 # Exercise 3 #
@@ -58,6 +77,11 @@ def find_fixtures_c1(in_table: pd.DataFrame):
 
     # print result table to the logs
     gv.task_log.info(output_df)
+    if df.empty:
+        gv.task_log.info("df is empty")
+        return default_df
+
+
 
     return output_df
 
@@ -73,6 +97,9 @@ def find_fixtures_c2(in_table: pd.DataFrame):
 
     # print result table to the logs
     gv.task_log.info(output_df)
+    if df.empty:
+        gv.task_log.info("df is empty")
+        return default_df
 
     return output_df
 
@@ -98,7 +125,7 @@ def find_fixtures_c2(in_table: pd.DataFrame):
     description="Runs transformations on fixtures data in DuckDB.",
     tags=["transformation"],
 )
-def transform_fixtures():
+def e_transform_fixtures():
 
 
     find_fixtures_c1(
@@ -120,4 +147,4 @@ def transform_fixtures():
     )
 
 
-transform_fixtures()
+e_transform_fixtures()

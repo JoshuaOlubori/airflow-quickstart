@@ -24,7 +24,7 @@ from include.custom_operators.minio import LocalFilesystemToMinIOOperator
 @dag(
     start_date=datetime(2023, 1, 1),
     # this DAG runs as soon as the "start" Dataset has been produced to
-    schedule=[gv.DS_START],
+    schedule=[gv.DS_INGEST],
     catchup=False,
     default_args=gv.default_args,
     description="Ingests fixtures data from provided csv files to MinIO.",
@@ -32,7 +32,7 @@ from include.custom_operators.minio import LocalFilesystemToMinIOOperator
     # render Jinja templates as native objects (e.g. dictionary) instead of strings
     render_template_as_native_obj=True,
 )
-def in_fixtures_data():
+def c_in_fixtures_data():
 
     # create an instance of the CreateBucket task group consisting of 5 tasks
     create_bucket_tg = CreateBucket(
@@ -59,4 +59,4 @@ def in_fixtures_data():
     create_bucket_tg >> ingest_fixtures_data
 
 
-in_fixtures_data()
+c_in_fixtures_data()
