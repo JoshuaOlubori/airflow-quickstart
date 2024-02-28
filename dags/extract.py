@@ -1,15 +1,20 @@
 """DAG that extracts fixtures data from an API, and concatenates them into a single file saved to the local disk."""
-from airflow.decorators import dag
+# --------------- #
+# PACKAGE IMPORTS #
+# --------------- #
 from pendulum import datetime
 import io
-
+import os
+import pandas as pd
+from airflow.decorators import dag
 from airflow.operators.python import PythonOperator
 
+# -------------------- #
+# Local module imports #
+# -------------------- #
 from include.global_variables import global_variables as gv
 from include.logic import fetch_data
 
-import os
-import pandas as pd
 
 def concatenate_csvs(root_dir, output_file):
     csv_files = []
@@ -26,17 +31,10 @@ def concatenate_csvs(root_dir, output_file):
     combined_df = pd.concat([pd.read_csv(file) for file in csv_files])
     combined_df.to_csv(os.path.join(root_dir, output_file), index=False)
 
-# # Specify the root directory containing the CSV files
-# root_dir = "fixtures"
 
-# # Specify the desired name for the combined CSV file
-# output_file = "combined_fixtures.csv"
-
-# concatenate_csvs(root_dir, output_file)
-
-# print("CSV files combined successfully!")
-
-
+# --- #
+# DAG #
+# --- #
 @dag(
     start_date=datetime(2023, 1, 1),
     # this DAG runs as soon as the "start" Dataset has been produced to
@@ -69,5 +67,6 @@ def b_extraction():
             outlets=[gv.DS_INGEST]
         )
 
+    # set dependencies
     api_fetcher >> concatenator
 b_extraction()

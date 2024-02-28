@@ -36,9 +36,11 @@ from include.logic import apply_filtering_logic, won_last_5_matches
 # Create a reporting table that counts heat days per year for each city location
 
 
-# def lenzi(df):
-#     """Function to check for empty dataframe"""
-#     return len(df.index) == 0
+def lenzi(df):
+    """Function to check for empty dataframe
+    https://stackoverflow.com/questions/19828822/how-do-i-check-if-a-pandas-dataframe-is-empty
+    """
+    return len(df.index) == 0
 
 import pandas as pd
 
@@ -77,7 +79,7 @@ def find_fixtures_c1(in_table: pd.DataFrame):
 
     # print result table to the logs
     gv.task_log.info(output_df)
-    if df.empty:
+    if lenzi(output_df) == True:
         gv.task_log.info("df is empty")
         return default_df
 
@@ -97,7 +99,7 @@ def find_fixtures_c2(in_table: pd.DataFrame):
 
     # print result table to the logs
     gv.task_log.info(output_df)
-    if df.empty:
+    if lenzi(output_df) == True:
         gv.task_log.info("df is empty")
         return default_df
 
