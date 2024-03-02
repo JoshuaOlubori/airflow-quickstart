@@ -38,10 +38,6 @@ from include.custom_operators.minio import (
 )
 def d_load_data():
 
-    # # create an instance of the CreateBucket task group consisting of 5 tasks
-    # create_bucket_tg = CreateBucket(
-    #     task_id="create_archive_bucket", bucket_name=gv.ARCHIVE_BUCKET_NAME
-    # )
 
     list_files_fixtures_bucket = MinIOListOperator(
         task_id="list_files_fixtures_bucket", bucket_name=gv.FIXTURES_BUCKET_NAME
@@ -55,9 +51,6 @@ def d_load_data():
         # get the object from MinIO and save as a local tmp csv file
         minio_client = gv.get_minio_client()
         minio_client.fget_object(gv.FIXTURES_BUCKET_NAME, obj, file_path=obj)
-
-        # derive table name from object name
-        # table_name = obj.split(".")[0] + "_table"
 
         # use read_csv_auto to load data to duckdb
         cursor = duckdb.connect(gv.DUCKDB_INSTANCE_NAME)
@@ -74,27 +67,8 @@ def d_load_data():
         # delete local tmp csv file
         os.remove(obj)
 
-
-    # @task
-    # def get_deletion_args(obj_list_fixtures):
-    #     """Return tuples with bucket names and bucket contents."""
-
-    #     return [
-    #         {"bucket_name": gv.FIXTURES_BUCKET_NAME, "object_names": obj_list_fixtures}
-    #     ]
-
-    # delete_objects = MinIODeleteObjectsOperator.partial(
-    #     task_id="delete_objects",
-    # ).expand_kwargs(
-    #     get_deletion_args(list_files_fixtures_bucket.output
-    #     )
-    # )
-
     # set dependencies
 
     fixtures_data = load_fixtures_data.expand(obj=list_files_fixtures_bucket.output)
-
-    # fixtures_data >> delete_objects
-
 
 d_load_data()

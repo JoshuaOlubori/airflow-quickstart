@@ -20,21 +20,6 @@ from include.global_variables import global_variables as gv
 
 from include.logic import apply_filtering_logic, won_last_5_matches
 
-# -------- #
-# Datasets #
-# -------- #
-
-# in_fixtures_dataset = Table(
-#     name=gv.FIXTURES_IN_TABLE_NAME, conn_id=gv.CONN_ID_DUCKDB
-# )
-
-# ----------------- #
-# Astro SDK Queries #
-# ----------------- #
-
-
-# Create a reporting table that counts heat days per year for each city location
-
 
 def lenzi(df):
     """Function to check for empty dataframe
@@ -42,12 +27,9 @@ def lenzi(df):
     """
     return len(df.index) == 0
 
-import pandas as pd
-
-# Create a DataFrame with headers
+# creating a dataframe to show if no fixtures obey filtering conditions
 default_df = pd.DataFrame(columns=['Date', 'HomeTeam', 'HomeScore', 'AwayScore', 'AwayTeam'])
 
-# Add a row with the specified phrase
 row_data = {
     'Date': 'no',
     'HomeTeam': 'fixtures',
@@ -58,32 +40,23 @@ row_data = {
 default_df = default_df.append(row_data, ignore_index=True)
 
 
-# ---------- #
-# Exercise 3 #
-# ---------- #
-# Use pandas to transform the 'historical_weather_reporting_table' into a table
-# showing the hottest day in your year of birth (or a year of your choice, if your year
-# of birth is not available for your city). Make sure the function returns a pandas dataframe
-# Tip: the returned dataframe will be shown in your streamlit App.
+# ----------------- #
+# Astro SDK Queries #
+# ----------------- #
 
-# SOLUTION: One of many possible solutions to retrieve the warmest day by year by city
 @aql.dataframe(pool="duckdb")
 def find_fixtures_c1(in_table: pd.DataFrame):
     # print ingested df to the logs
     gv.task_log.info(in_table)
 
     df = in_table
-# import transformation function from utils.py
     output_df = apply_filtering_logic(df)
     
-
     # print result table to the logs
     gv.task_log.info(output_df)
     if lenzi(output_df) == True:
         gv.task_log.info("df is empty")
         return default_df
-
-
 
     return output_df
 
@@ -93,10 +66,9 @@ def find_fixtures_c2(in_table: pd.DataFrame):
     gv.task_log.info(in_table)
 
     df = in_table
-# import transformation function from utils.py
+
     output_df = won_last_5_matches(df)
     
-
     # print result table to the logs
     gv.task_log.info(output_df)
     if lenzi(output_df) == True:
@@ -110,17 +82,9 @@ def find_fixtures_c2(in_table: pd.DataFrame):
 # DAG #
 # --- #
 
-# ---------- #
-# Exercise 1 #
-# ---------- #
-# Schedule this DAG to run as soon as the 'extract_historical_weather_data' DAG has finished running.
-# Tip: You can either add your own Dataset as an outlet in the last task of the previous DAG or
-# use the a Astro Python SDK Table based Dataset as seen in the 'transform_climate_data' DAG.
-
 
 @dag(
     start_date=datetime(2023, 1, 1),
-    # SOLUTION: Run this DAG as soon as the Astro Python SDK Table where ingested historical weather data is stored is updated
     schedule=[gv.DS_DUCKDB_IN_FIXTURES],
     catchup=False,
     default_args=gv.default_args,

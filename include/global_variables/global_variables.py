@@ -10,13 +10,6 @@ from minio import Minio
 from pendulum import duration
 import json
 
-# -------------------- #
-# Enter your own info! #
-# -------------------- #
-
-# MY_NAME = "Friend"
-# MY_CITY = "Portland"
-
 # ----------------------- #
 # Configuration variables #
 # ----------------------- #
@@ -61,9 +54,17 @@ API_ENDPOINT = Variable.get("API_ENDPOINT")
 API_KEY = Variable.get("API_KEY")
 API_HOST = Variable.get("API_HOST")
 
-# API_ENDPOINT = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
-# API_KEY = "8feeed635dmshbab9080dc4f248bp112d75jsn9661eab3597b"
-# API_HOST = "api-football-v1.p.rapidapi.com"
+# LEAGUE IDS
+LEAGUE_IDS = [39, 40,
+            #   41, 42, 43, 50, 51, 59, 60,
+            #  78, 79, 83, 84, 85, 86, 61, 62, 135, 136,
+            #  88, 89, 106, 107,  144, 283, 94, 95, 96,
+            #  140, 141, 142, 876, 435, 436, 210, 318, 345,
+            #  203, 204, 271, 272, 235, 373, 307, 308, 301, 303,
+            #  207, 208, 179, 180, 183, 184,
+            # 305, 233, 290, 218, 219, 419, 172,
+            #  119, 120, 236, 288, 128, 129, 134, 71, 72, 383, 382
+              ]
 
 
 
@@ -78,17 +79,9 @@ default_args = {
     "retry_delay": duration(minutes=1),
 }
 
-# default coordinates
-# default_coordinates = {"city": "No city provided", "lat": 0, "long": 0}
-
 
 # utility functions
 def get_minio_client():
     client = Minio(MINIO_IP, MINIO_ACCESS_KEY, MINIO_SECRET_KEY, secure=False)
 
     return client
-
-
-# command to run streamlit app within codespaces/docker
-# modifications are necessary to support double-port-forwarding
-STREAMLIT_COMMAND = "streamlit run weather_v_climate_app.py --server.enableWebsocketCompression=false --server.enableCORS=false"
